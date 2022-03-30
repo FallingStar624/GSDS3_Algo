@@ -16,8 +16,8 @@
 
 
 ### :ladder:Wiki 정리 순번
-1. 최광호
-2. 채규병
+1. 최광호 `FallingStar`
+2. 채규병 `kyubyungchae`
 3. 김동근
 4. 이규성
 5. 박성우
