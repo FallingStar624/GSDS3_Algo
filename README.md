@@ -15,7 +15,7 @@
   - :exclamation: 해당 주차의 `리뷰 당번`은 스터디룸 예약까지 담당 :exclamation:
 
 
-### Wiki 정리 순번
+### :ladder:Wiki 정리 순번
 1. 최광호
 2. 채규병
 3. 김동근
