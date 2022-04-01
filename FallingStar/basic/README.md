@@ -1,12 +1,12 @@
 # 기초 코드 작성 요령 II
 
-<img src="https://progress-bar.dev/0/?scale=27&title=progress&width=500&color=babaca&suffix=/27"/>
+<img src="https://progress-bar.dev/1/?scale=27&title=progress&width=500&color=babaca&suffix=/27"/>
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7306)
 
 | 문제 분류  | 문제  |                       문제 제목                        |              풀이 코드               |
 | :--------: | :---: | :----------------------------------------------------: | :----------------------------------: |
-| 연습 문제  | 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [:white_check_mark:](/BOJ_10871.cpp) |
+| 연습 문제  | 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [:white_check_mark:](BOJ_10871.cpp) |
 | 기본 문제✔ | 1000  |      [A+B](https://www.acmicpc.net/problem/1000)       |                                      |
 | 기본 문제✔ | 2557  |  [Hello World](https://www.acmicpc.net/problem/2557)   |                                      |
 | 기본 문제✔ | 10171 |    [고양이](https://www.acmicpc.net/problem/10171)     |                                      |
