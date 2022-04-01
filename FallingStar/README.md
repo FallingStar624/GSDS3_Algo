@@ -1,3 +1,3 @@
 # Index
 
-- basic
+- [basic](./basic)
