@@ -1,6 +1,6 @@
 # 기초 코드 작성 요령 II
 
-<img src="https://progress-bar.dev/7/?scale=27&title=progress&width=500&color=babaca&suffix=/27"/>
+<img src="https://progress-bar.dev/8/?scale=27&title=progress&width=500&color=babaca&suffix=/27"/>
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7306)
 
@@ -13,7 +13,7 @@
 | 기본 문제✔ | 10869 |   [사칙연산](https://www.acmicpc.net/problem/10869)    | [:white_check_mark:](BOJ_10869.cpp) |
 | 기본 문제✔ | 9498  |   [시험 성적](https://www.acmicpc.net/problem/9498)    | [:white_check_mark:](BOJ_9498.cpp) |
 | 기본 문제✔ | 2752  |    [세수정렬](https://www.acmicpc.net/problem/2752)    | [:white_check_mark:](BOJ_2752.cpp) |
-| 기본 문제✔ | 2753  |      [윤년](https://www.acmicpc.net/problem/2753)      |                                      |
+| 기본 문제✔ | 2753  |      [윤년](https://www.acmicpc.net/problem/2753)      | [:white_check_mark:](BOJ_2753.cpp) |
 | 기본 문제✔ | 2480  |  [주사위 세개](https://www.acmicpc.net/problem/2480)   |                                      |
 | 기본 문제✔ | 2490  |     [윷놀이](https://www.acmicpc.net/problem/2490)     |                                      |
 | 기본 문제✔ | 2576  |      [홀수](https://www.acmicpc.net/problem/2576)      |                                      |
