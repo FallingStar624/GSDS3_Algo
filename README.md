@@ -18,7 +18,7 @@
 ### 🪜 Wiki 정리 순번 `dir 이름`
 1. 최광호 `FallingStar`
 2. 채규병 `kyubyungchae`
-3. 김동근 
+3. 김동근 `kslee001`
 4. 이규성
 5. 박성우
 6. 여광은
