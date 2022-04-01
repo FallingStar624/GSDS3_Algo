@@ -9,7 +9,7 @@
 | 연습 문제  | 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [:white_check_mark:](BOJ_10871.cpp) |
 | 기본 문제✔ | 1000  |      [A+B](https://www.acmicpc.net/problem/1000)       | [:white_check_mark:](BOJ_10000.cpp) |
 | 기본 문제✔ | 2557  |  [Hello World](https://www.acmicpc.net/problem/2557)   | [:white_check_mark:](BOJ_2557.cpp) |
-| 기본 문제✔ | 10171 |    [고양이](https://www.acmicpc.net/problem/10171)     |                                      |
+| 기본 문제✔ | 10171 |    [고양이](https://www.acmicpc.net/problem/10171)     | [:white_check_mark:](BOJ_10171.cpp) |
 | 기본 문제✔ | 10869 |   [사칙연산](https://www.acmicpc.net/problem/10869)    |                                      |
 | 기본 문제✔ | 9498  |   [시험 성적](https://www.acmicpc.net/problem/9498)    |                                      |
 | 기본 문제✔ | 2752  |    [세수정렬](https://www.acmicpc.net/problem/2752)    |                                      |
