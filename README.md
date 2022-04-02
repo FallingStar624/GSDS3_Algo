@@ -21,7 +21,7 @@
 3. 김동근 `kslee001`
 4. 이규성
 5. 박성우 `sungwoopark95`
-6. 여광은
+6. 여광은 `kwangeun.yeo`
 
 
 ### :calendar: 일정 및 진도
