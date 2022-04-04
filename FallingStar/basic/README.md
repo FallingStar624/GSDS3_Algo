@@ -1,6 +1,6 @@
 # 기초 코드 작성 요령 II
 
-<img src="https://progress-bar.dev/17/?scale=27&title=progress&width=500&color=babaca&suffix=/27"/>
+<img src="https://progress-bar.dev/24/?scale=27&title=progress&width=500&color=babaca&suffix=/27"/>
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7306)
 
