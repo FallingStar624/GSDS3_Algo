@@ -18,10 +18,11 @@
 ### 🪜 Wiki 정리 순번 `dir 이름`
 1. 최광호 `FallingStar`
 2. 채규병 `kyubyungchae`
-3. 김동근 
+3. 김동근 `DongGeun`
 4. 이규성 `kslee001`
 5. 박성우 `sungwoopark95`
 6. 여광은 `kwangeun.yeo`
+7. 임상수
 
 
 ### :calendar: 일정 및 진도
