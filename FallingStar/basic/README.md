@@ -1,6 +1,6 @@
 # 기초 코드 작성 요령 II
 
-<img src="https://progress-bar.dev/13/?scale=27&title=progress&width=500&color=babaca&suffix=/27"/>
+<img src="https://progress-bar.dev/14/?scale=27&title=progress&width=500&color=babaca&suffix=/27"/>
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7306)
 
@@ -19,7 +19,7 @@
 | 기본 문제✔ | 2576  |      [홀수](https://www.acmicpc.net/problem/2576)      | [:white_check_mark:](BOJ_2576.cpp) |
 | 기본 문제✔ | 2587  |    [대표값2](https://www.acmicpc.net/problem/2587)     | [:white_check_mark:](BOJ_2587.cpp) |
 | 기본 문제✔ | 2309  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)   | [:white_check_mark:](BOJ_2309.cpp) |
-| 기본 문제✔ | 10093 |     [숫자](https://www.acmicpc.net/problem/10093)      |                                      |
+| 기본 문제✔ | 10093 |     [숫자](https://www.acmicpc.net/problem/10093)      | [:white_check_mark:](BOJ_10093.cpp) |
 | 기본 문제✔ | 1267  |  [핸드폰 요금](https://www.acmicpc.net/problem/1267)   |                                      |
 | 기본 문제✔ | 10804 |  [카드 역배치](https://www.acmicpc.net/problem/10804)  |                                      |
 | 기본 문제✔ | 15552 |   [빠른 A+B](https://www.acmicpc.net/problem/15552)    |                                      |
