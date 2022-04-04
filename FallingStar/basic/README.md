@@ -23,14 +23,14 @@
 | 기본 문제✔ | 1267  |  [핸드폰 요금](https://www.acmicpc.net/problem/1267)   | [:white_check_mark:](BOJ_1267.cpp) |
 | 기본 문제✔ | 10804 |  [카드 역배치](https://www.acmicpc.net/problem/10804)  | [:white_check_mark:](BOJ_10804.cpp) |
 | 기본 문제✔ | 15552 |   [빠른 A+B](https://www.acmicpc.net/problem/15552)    | [:white_check_mark:](BOJ_15552.cpp) |
-| 기본 문제✔ | 2438  |  [별 찍기 - 1](https://www.acmicpc.net/problem/2438)   |                                      |
-| 기본 문제✔ | 2439  |  [별 찍기 - 2](https://www.acmicpc.net/problem/2439)   |                                      |
-| 기본 문제✔ | 2440  |  [별 찍기 - 3](https://www.acmicpc.net/problem/2440)   |                                      |
-| 기본 문제✔ | 2441  |  [별 찍기 - 4](https://www.acmicpc.net/problem/2441)   |                                      |
-| 기본 문제✔ | 2442  |  [별 찍기 - 5](https://www.acmicpc.net/problem/2442)   |                                      |
-| 기본 문제✔ | 2443  |  [별 찍기 - 6](https://www.acmicpc.net/problem/2443)   |                                      |
+| 기본 문제✔ | 2438  |  [별 찍기 - 1](https://www.acmicpc.net/problem/2438)   | [:white_check_mark:](BOJ_2438.cpp) |
+| 기본 문제✔ | 2439  |  [별 찍기 - 2](https://www.acmicpc.net/problem/2439)   | [:white_check_mark:](BOJ_2439.cpp) |
+| 기본 문제✔ | 2440  |  [별 찍기 - 3](https://www.acmicpc.net/problem/2440)   | [:white_check_mark:](BOJ_2440.cpp) |
+| 기본 문제✔ | 2441  |  [별 찍기 - 4](https://www.acmicpc.net/problem/2441)   | [:white_check_mark:](BOJ_2441.cpp) |
+| 기본 문제✔ | 2442  |  [별 찍기 - 5](https://www.acmicpc.net/problem/2442)   | [:white_check_mark:](BOJ_2442.cpp) |
+| 기본 문제✔ | 2443  |  [별 찍기 - 6](https://www.acmicpc.net/problem/2443)   | [:white_check_mark:](BOJ_2443.cpp) |
 | 기본 문제✔ | 2444  |  [별 찍기 - 7](https://www.acmicpc.net/problem/2444)   |                                      |
 | 기본 문제✔ | 2445  |  [별 찍기 - 8](https://www.acmicpc.net/problem/2445)   |                                      |
 | 기본 문제✔ | 2446  |  [별 찍기 - 9](https://www.acmicpc.net/problem/2446)   |                                      |
-| 기본 문제✔ | 2562  |     [최댓값](https://www.acmicpc.net/problem/2562)     |                                      |
+| 기본 문제✔ | 2562  |     [최댓값](https://www.acmicpc.net/problem/2562)     | [:white_check_mark:](BOJ_2562.cpp) |
 
