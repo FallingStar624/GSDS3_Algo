@@ -1,6 +1,6 @@
 # 기초 코드 작성 요령 II
 
-<img src="https://progress-bar.dev/24/?scale=27&title=progress&width=500&color=babaca&suffix=/27"/>
+<img src="https://progress-bar.dev/27/?scale=27&title=progress&width=500&color=babaca&suffix=/27"/>
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7306)
 
@@ -29,8 +29,8 @@
 | 기본 문제✔ | 2441  |  [별 찍기 - 4](https://www.acmicpc.net/problem/2441)   | [:white_check_mark:](BOJ_2441.cpp) |
 | 기본 문제✔ | 2442  |  [별 찍기 - 5](https://www.acmicpc.net/problem/2442)   | [:white_check_mark:](BOJ_2442.cpp) |
 | 기본 문제✔ | 2443  |  [별 찍기 - 6](https://www.acmicpc.net/problem/2443)   | [:white_check_mark:](BOJ_2443.cpp) |
-| 기본 문제✔ | 2444  |  [별 찍기 - 7](https://www.acmicpc.net/problem/2444)   |                                      |
-| 기본 문제✔ | 2445  |  [별 찍기 - 8](https://www.acmicpc.net/problem/2445)   |                                      |
-| 기본 문제✔ | 2446  |  [별 찍기 - 9](https://www.acmicpc.net/problem/2446)   |                                      |
+| 기본 문제✔ | 2444  |  [별 찍기 - 7](https://www.acmicpc.net/problem/2444)   | [:white_check_mark:](BOJ_2444.cpp) |
+| 기본 문제✔ | 2445  |  [별 찍기 - 8](https://www.acmicpc.net/problem/2445)   | [:white_check_mark:](BOJ_2445.cpp) |
+| 기본 문제✔ | 2446  |  [별 찍기 - 9](https://www.acmicpc.net/problem/2446)   | [:white_check_mark:](BOJ_2446.cpp) |
 | 기본 문제✔ | 2562  |     [최댓값](https://www.acmicpc.net/problem/2562)     | [:white_check_mark:](BOJ_2562.cpp) |
 
