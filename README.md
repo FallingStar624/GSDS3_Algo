@@ -3,7 +3,7 @@
 
 - 목표: 안전한 논자시 통과 및 실력 향상
 
-- 참고 컨텐츠: :book: [바킹독의 실전 알고리즘](https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY) 
+- 참고 컨텐츠: :book: [바킹독의 실전 알고리즘](https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY) / [문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
 
 - 스터디 시간: 매주 수요일 17:30 ~ 18:30
 - 스터디 방식
