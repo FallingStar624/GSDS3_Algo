@@ -21,6 +21,7 @@ int main() {
     // 규칙에 따라서 students 돌면서 방 세기
     int room = 0;
     for (int j=0;j<12;j++) {
+        // 오류난 부분; 나머지만큼 더하면 안 됨!
         room += (students[j] / k) + (students[j] % k);
     }
 

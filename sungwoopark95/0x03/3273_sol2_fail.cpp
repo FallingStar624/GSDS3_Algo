@@ -20,6 +20,7 @@ int main() {
     int pairs = 0;
     int diff;
     bool exists;
+    // 오류난 부분 - O(n^2)
     for (int j=0;j<n;j++) {
         diff = condition - sequence[j];
         exists = find(&sequence[j+1], &sequence[n], diff) != &sequence[n];

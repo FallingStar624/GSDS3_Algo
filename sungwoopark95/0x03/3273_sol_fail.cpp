@@ -18,6 +18,7 @@ int main() {
     cin >> condition;
 
     int pairs = 0;
+    // 오류난 부분 - O(n^2)
     for (int j=0;j<n-1;j++) {
         for (int k=j+1;k<n;k++) {
             if (sequence[j] + sequence[k] == condition) {
