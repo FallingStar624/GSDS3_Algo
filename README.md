@@ -34,4 +34,13 @@
 | 2022-04-20 | :film_strip: [연결 리스트](https://youtu.be/C6MX5u7r72E) | :bookmark_tabs: [연결 리스트](https://www.acmicpc.net/workbook/view/7308) |     [동근](https://github.com/DongGeun)     |
 
 
+### :bulb: Git Tip
+Git Conflict가 나서 새로 Github 내용으로 덮어쓰고 싶을 때
+
+```sh
+git fetch --all
+git reset --hard origin/master
+git pull origin master
+```
+
 
