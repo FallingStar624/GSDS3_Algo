@@ -1,36 +1,52 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main() {
-  ios::sync_with_stdio(0);
-  cin.tie(0);
-  int n;
+int N;
 
-  cin >> n;
+int main(void){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cin >> N;
+    while (N-->0)
+    {
+        string S;
+        cin>>S;
+        list<char> L={};
+        list<char>::iterator t=L.begin();
+        //auto t=L.begin();
 
-  for (int i = 0; i < n; i++) {
-    list<char> L = {};
-    string s;
-    auto p = L.begin();
+        for (auto c : S)
+        {
+            if (c=='<')
+            {
+                if (t != L.begin()) t--;
+            }
+            else  if (c=='>')
+            {
+                if (t != L.end()) t++;
+            }
+            else if (c=='-')
+            {
+                if (t!=L.begin())
+                {
+                    t--;
+                    //cout <<*t<<" deleted \n";
+                    t=L.erase(t);
+                }
 
-    cin >> s;
-    for (auto c : s) {
-      if (c == '<') {
-        if (p != L.begin()) p--;
-      }
-      else if (c == '>') {
-        if (p != L.end()) p++;
-      }
-      else if (c == '-') {
-        if (p != L.begin()) {
-          p--;
-          p = L.erase(p);
+            }
+            else {
+                L.insert(t, c);
+                //for (auto s : L)cout<<s;
+                //cout<<'\n';
+            }
+
+
         }
-      }
-      else
-        L.insert(p, c);      
+        for (auto c : L)cout<<c;
+        cout<<'\n';
+
     }
-    for (auto c : L) cout << c;
-    cout << '\n';
-  }
+
+
 }
