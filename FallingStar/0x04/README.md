@@ -6,6 +6,6 @@
 
 | 문제 분류  | 문제 |                       문제 제목                       |            정답 코드             |
 | :--------: | :--: | :---------------------------------------------------: | :------------------------------: |
-| 연습 문제  | 1406 |    [에디터](https://www.acmicpc.net/problem/1406)     | [✅](../0x04/solutions/1406.cpp) |
-| 기본 문제✔ | 5397 |    [키로거](https://www.acmicpc.net/problem/5397)     | [✅](../0x04/solutions/5397.cpp) |
-| 기본 문제✔ | 1158 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [✅](../0x04/solutions/1158.cpp) |
+| 연습 문제  | 1406 |    [에디터](https://www.acmicpc.net/problem/1406)     | [✅](BOJ_1406.cpp) |
+| 기본 문제✔ | 5397 |    [키로거](https://www.acmicpc.net/problem/5397)     | [✅](BOJ_5397.cpp) |
+| 기본 문제✔ | 1158 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [✅](BOJ_1158.cpp) |
