@@ -31,8 +31,8 @@
 | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------: |
 | 2022-04-06 | :film_strip: [기초 코드 작성 요령 1](https://youtu.be/9MMKsrvRiw4)<br>  :film_strip: [기초 코드 작성 요령 2](https://youtu.be/6lhVHP8bkPA) | :bookmark_tabs: [기초 코드 작성 요령 2](https://www.acmicpc.net/workbook/view/7306) | [광호](https://github.com/FallingStar624) |
 | 2022-04-13 | :film_strip: [배열](https://www.youtube.com/watch?v=mBeyFsHqzHg&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=4) | :bookmark_tabs: [배열](https://www.acmicpc.net/workbook/view/7307) |     [규병](https://github.com/qqplot)     |
-| 2022-04-20 | :film_strip: [연결 리스트](https://youtu.be/C6MX5u7r72E) | :bookmark_tabs: [연결 리스트](https://www.acmicpc.net/workbook/view/7308) |     [동근](https://github.com/DongGeun)     
-| 2022-04-27 | :film_strip: [스택](https://www.youtube.com/watch?v=0DsyCXIN7Wg) | :bookmark_tabs: [스택](https://www.acmicpc.net/workbook/view/7309) |     [규성](https://github.com/kslee001)     |
+| 2022-04-20 |   :film_strip: [연결 리스트](https://youtu.be/C6MX5u7r72E)   | :bookmark_tabs: [연결 리스트](https://www.acmicpc.net/workbook/view/7308) |    [동근](https://github.com/DongGeun)    |
+| 2022-04-27 | :film_strip: [스택](https://www.youtube.com/watch?v=0DsyCXIN7Wg) | :bookmark_tabs: [스택](https://www.acmicpc.net/workbook/view/7309) |    [규성](https://github.com/kslee001)    |
 
 
 ### :bulb: Git Tip
@@ -43,5 +43,3 @@ git fetch --all
 git reset --hard origin/master
 git pull origin master
 ```
-
-
