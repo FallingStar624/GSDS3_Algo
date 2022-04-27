@@ -1,6 +1,6 @@
 # 스택
 
-<img src="https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8">
+<img src="https://progress-bar.dev/6/?scale=8&title=progress&width=500&color=babaca&suffix=/8">
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7309)
 
