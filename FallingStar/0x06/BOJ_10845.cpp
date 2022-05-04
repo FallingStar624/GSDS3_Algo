@@ -2,9 +2,10 @@
 #include <queue>
 using namespace std;
 
+int n, i, tmp; cin>>n;
+queue<int> Q;
+
 int main() {
-    int n, i, tmp; cin>>n;
-    queue<int> Q;
     string command;
     for (i=0; i<n; i++) {
         cin >> command;
