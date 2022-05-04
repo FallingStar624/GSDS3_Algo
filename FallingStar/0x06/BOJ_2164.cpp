@@ -17,4 +17,3 @@ int main() {
     cout << Q.front() << endl;
     return 0;
 }
-
