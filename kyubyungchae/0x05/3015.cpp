@@ -13,7 +13,6 @@ int main() {
     cin.tie(0);
 
     cin >> N;
-
     long long ans = 0;
 
     while(N--) {
