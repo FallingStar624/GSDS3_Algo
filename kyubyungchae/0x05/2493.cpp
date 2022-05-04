@@ -1,30 +1,28 @@
 #include <stack>
 #include <iostream>
 #include <string>
+#include <utility>
 
 using namespace std;
+
+int N;
+stack<pair<int,int>> st;
 
 int main() {
 
     ios::sync_with_stdio(0);
     cin.tie(0);
 
-    stack<int> st;
-    int N;
-
     cin >> N;
 
-    int cnt = 0;
-    for(int i = 0; i < N; i++) {
-        int h;
-        cin >> h;
-        
-        while(!st.empty() && st.top() <= h)
+    st.push({100000001, 0});
+    for(int i = 1; i <= N; i++) {
+        int height;
+        cin >> height;
+        while(st.top().first < height)
             st.pop();
-        
-        cnt += st.size();
-        st.push(h);
-        cout << cnt << " ";
+        cout << st.top().second << " ";
+        st.push({height, i});
     }
     
     return 0;
