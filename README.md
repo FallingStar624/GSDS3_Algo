@@ -50,5 +50,5 @@ git pull origin master
 
 ## Solved.ac Level
 - 규병
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=pairy624)](https://solved.ac/qq_plot)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qqplot)](https://solved.ac/qq_plot)
 
