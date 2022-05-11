@@ -46,3 +46,9 @@ git pull origin master
 ```
 
 
+### :1st_place_medal: Badge
+
+## Solved.ac Level
+- 규병
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=pairy624)](https://solved.ac/qq_plot)
+
