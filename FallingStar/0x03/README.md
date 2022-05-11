@@ -1,6 +1,6 @@
 # 배열
 
-<img src="https://progress-bar.dev/1/?scale=8&title=progress&width=500&color=babaca&suffix=/8">
+<img src="https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8">
 
 | 문제 분류  | 문제  |                        문제 제목                        |                코드                 |
 | :--------: | :---: | :-----------------------------------------------------: | :---------------------------------: |
