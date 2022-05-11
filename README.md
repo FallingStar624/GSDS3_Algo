@@ -34,6 +34,7 @@
 | 2022-04-20 | :film_strip: [연결 리스트](https://youtu.be/C6MX5u7r72E) | :bookmark_tabs: [연결 리스트](https://www.acmicpc.net/workbook/view/7308) |     [동근](https://github.com/DongGeun)     
 | 2022-04-27 | :film_strip: [스택](https://www.youtube.com/watch?v=0DsyCXIN7Wg) | :bookmark_tabs: [스택](https://www.acmicpc.net/workbook/view/7309) |     [규성](https://github.com/kslee001)     |
 | 2022-05-04 | :film_strip: [큐](https://www.youtube.com/watch?v=D_fwSy5tRAY) | :bookmark_tabs: [큐](https://www.acmicpc.net/workbook/view/7310) |     [성우](https://github.com/sungwoopark95)     |
+| 2022-05-11 | :film_strip: [덱](https://www.youtube.com/watch?v=0mEzJ4S1d8o)<br> :film_strip: [스택의 활용](https://www.youtube.com/watch?v=cdjjk-ryPKc) | :bookmark_tabs: [덱](https://www.acmicpc.net/workbook/view/7311)<br> :bookmark_tabs: [스택의 활용](https://www.acmicpc.net/workbook/view/7312) |     [광은](https://github.com/yeokwangeun)     |
 
 ### :bulb: Git Tip
 Git Conflict가 나서 새로 Github 내용으로 덮어쓰고 싶을 때
