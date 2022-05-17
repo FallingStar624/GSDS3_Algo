@@ -49,7 +49,9 @@ git pull origin master
 
 ### :1st_place_medal: Badge
 
-## Solved.ac Level
-- 규병<br/>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qq_plot)](https://solved.ac/qq_plot)
+|                             규병                             |                             상수                             |                             광은                             |                             광호                             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qq_plot)](https://solved.ac/qq_plot) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=imsangsoo)](https://solved.ac/imsangsoo) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kwangeun)](https://solved.ac/kwangeun) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=pairy624)](https://solved.ac/pairy624) |
+|                           **성우**                           |                           **규성**                           |                           **동근**                           |                                                              |
+| [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sungwoopark95)](https://solved.ac/sungwoopark95) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kscodingpractice)](https://solved.ac/kscodingpractice) |                                                              |                                                              |
 
