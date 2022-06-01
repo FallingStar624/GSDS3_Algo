@@ -37,6 +37,7 @@
 | 2022-05-11 | :film_strip: [덱](https://www.youtube.com/watch?v=0mEzJ4S1d8o)<br> :film_strip: [스택의 활용](https://www.youtube.com/watch?v=cdjjk-ryPKc) | :bookmark_tabs: [덱](https://www.acmicpc.net/workbook/view/7311)<br> :bookmark_tabs: [스택의 활용](https://www.acmicpc.net/workbook/view/7312) |     [광은](https://github.com/yeokwangeun)     |
 | 2022-05-18 | :film_strip: [BFS](https://www.youtube.com/watch?v=ftOmGdm95XI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=10)<br> | :bookmark_tabs: [BFS](https://www.acmicpc.net/workbook/view/7313)<br> |     [상수](https://github.com/sangsoo)     |
 | 2022-05-25 | :film_strip: [BFS](https://www.youtube.com/watch?v=ftOmGdm95XI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=10)<br> | :bookmark_tabs: [BFS](https://www.acmicpc.net/workbook/view/7313)<br> |     [광호](https://github.com/FallingStar624)     |
+| 2022-06-01 | :film_strip: [BFS](https://www.youtube.com/watch?v=ftOmGdm95XI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=10)<br> | :bookmark_tabs: [BFS](https://www.acmicpc.net/workbook/view/7313)<br> |     [규병](https://github.com/qqplot)     |
 
 ### :bulb: Git Tip
 Git Conflict가 나서 새로 Github 내용으로 덮어쓰고 싶을 때
