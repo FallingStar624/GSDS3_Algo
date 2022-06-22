@@ -1,3 +1,4 @@
+// int -> ll 으로 해결: size*size*3이 최대일 때 int 범위 넘어감...
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -28,4 +29,5 @@ int main() {
     int max_ord = pow(max_len, 2);
     recur(0, 0, max_len, max_ord-1);
     return 0;
-}
+gg}
+
