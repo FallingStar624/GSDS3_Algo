@@ -31,9 +31,17 @@
 | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------: |
 | 2022-04-06 | :film_strip: [기초 코드 작성 요령 1](https://youtu.be/9MMKsrvRiw4)<br>  :film_strip: [기초 코드 작성 요령 2](https://youtu.be/6lhVHP8bkPA) | :bookmark_tabs: [기초 코드 작성 요령 2](https://www.acmicpc.net/workbook/view/7306) | [광호](https://github.com/FallingStar624) |
 | 2022-04-13 | :film_strip: [배열](https://www.youtube.com/watch?v=mBeyFsHqzHg&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=4) | :bookmark_tabs: [배열](https://www.acmicpc.net/workbook/view/7307) |     [규병](https://github.com/qqplot)     |
-| 2022-04-20 |   :film_strip: [연결 리스트](https://youtu.be/C6MX5u7r72E)   | :bookmark_tabs: [연결 리스트](https://www.acmicpc.net/workbook/view/7308) |    [동근](https://github.com/DongGeun)    |
-| 2022-04-27 | :film_strip: [스택](https://www.youtube.com/watch?v=0DsyCXIN7Wg) | :bookmark_tabs: [스택](https://www.acmicpc.net/workbook/view/7309) |    [규성](https://github.com/kslee001)    |
-| 2022-05-04 | :film_strip: [큐](https://www.youtube.com/watch?v=D_fwSy5tRAY) | :bookmark_tabs: [큐](https://www.acmicpc.net/workbook/view/7310) | [성우](https://github.com/sungwoopark95)  |
+| 2022-04-20 | :film_strip: [연결 리스트](https://youtu.be/C6MX5u7r72E) | :bookmark_tabs: [연결 리스트](https://www.acmicpc.net/workbook/view/7308) |     [동근](https://github.com/DongGeun)     
+| 2022-04-27 | :film_strip: [스택](https://www.youtube.com/watch?v=0DsyCXIN7Wg) | :bookmark_tabs: [스택](https://www.acmicpc.net/workbook/view/7309) |     [규성](https://github.com/kslee001)     |
+| 2022-05-04 | :film_strip: [큐](https://www.youtube.com/watch?v=D_fwSy5tRAY) | :bookmark_tabs: [큐](https://www.acmicpc.net/workbook/view/7310) |     [성우](https://github.com/sungwoopark95)     |
+| 2022-05-11 | :film_strip: [덱](https://www.youtube.com/watch?v=0mEzJ4S1d8o)<br> :film_strip: [스택의 활용](https://www.youtube.com/watch?v=cdjjk-ryPKc) | :bookmark_tabs: [덱](https://www.acmicpc.net/workbook/view/7311)<br> :bookmark_tabs: [스택의 활용](https://www.acmicpc.net/workbook/view/7312) |     [광은](https://github.com/yeokwangeun)     |
+| 2022-05-18 | :film_strip: [BFS](https://www.youtube.com/watch?v=ftOmGdm95XI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=10)<br> | :bookmark_tabs: [BFS](https://www.acmicpc.net/workbook/view/7313)<br> |     [상수](https://github.com/sangsoo)     |
+| 2022-05-25 | :film_strip: [BFS](https://www.youtube.com/watch?v=ftOmGdm95XI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=10)<br> | :bookmark_tabs: [BFS](https://www.acmicpc.net/workbook/view/7313)<br> |     [광호](https://github.com/FallingStar624)     |
+| 2022-06-01 | :film_strip: [BFS](https://www.youtube.com/watch?v=ftOmGdm95XI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=10)<br> | :bookmark_tabs: [BFS](https://www.acmicpc.net/workbook/view/7313)<br> |     [규병](https://github.com/qqplot)     |
+| 2022-06-08 | :film_strip: [BST](https://www.youtube.com/watch?v=IKnjzmyk70U&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=23),[MST](https://www.youtube.com/watch?v=4wA3bncb64E&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=28),[플로이드](https://www.youtube.com/watch?v=dDDy2bEZRA8&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=29),[다익스트라](https://www.youtube.com/watch?v=o9BnvwgPT-o&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=30)<br> | :bookmark_tabs: [BST](https://www.acmicpc.net/workbook/view/9346),[MST](https://www.acmicpc.net/workbook/view/9907),[플로이드](https://www.acmicpc.net/workbook/view/10318),[다익스트라](https://www.acmicpc.net/workbook/view/10433)<br> |    [동근](https://github.com/DongGeun)    |
+| 2022-07-06 | :film_strip: [백트랙킹(1/2)](https://www.youtube.com/watch?v=Enz2csssTCs&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=13)<br> | :bookmark_tabs: [백트랙킹(1/2)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0C.md)<br> |     [규병](https://github.com/qqplot)     |
+
+
 
 ### :bulb: Git Tip
 Git Conflict가 나서 새로 Github 내용으로 덮어쓰고 싶을 때
@@ -42,5 +50,13 @@ Git Conflict가 나서 새로 Github 내용으로 덮어쓰고 싶을 때
 git fetch --all
 git reset --hard origin/master
 git pull origin master
-```xxxxxxxxxx git fetch --allgit reset --hard origin/mastergit pull origin mastersh
 ```
+
+
+### :1st_place_medal: Badge
+
+|                             규병                             |                             상수                             |                             광은                             |                             광호                             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qq_plot)](https://solved.ac/qq_plot) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=imsangsoo)](https://solved.ac/imsangsoo) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kwangeun)](https://solved.ac/kwangeun) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=pairy624)](https://solved.ac/pairy624) |
+|                           **성우**                           |                           **규성**                           |                           **동근**                           |                                                              |
+| [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sungwoopark95)](https://solved.ac/sungwoopark95) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kscodingpractice)](https://solved.ac/kscodingpractice) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kdg5188)](https://solved.ac/kdg5188) |                                                              |
