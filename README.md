@@ -5,7 +5,7 @@
 
 - 참고 컨텐츠: :book: [바킹독의 실전 알고리즘](https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY) / [문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
 
-- 스터디 시간: 매주 수요일 17:30 ~ 18:30
+- 스터디 시간: 매주 수요일 15:30 ~ 17:30
 - 스터디 방식
   - 함께 정한 진도를 학습하고 코드를 github에 공유.
   - 수요일 마다 모여 문제에 대해 서로 풀이를 공유
@@ -40,6 +40,7 @@
 | 2022-06-01 | :film_strip: [BFS](https://www.youtube.com/watch?v=ftOmGdm95XI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=10)<br> | :bookmark_tabs: [BFS](https://www.acmicpc.net/workbook/view/7313)<br> |     [규병](https://github.com/qqplot)     |
 | 2022-06-08 | :film_strip: [BST](https://www.youtube.com/watch?v=IKnjzmyk70U&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=23),[MST](https://www.youtube.com/watch?v=4wA3bncb64E&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=28),[플로이드](https://www.youtube.com/watch?v=dDDy2bEZRA8&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=29),[다익스트라](https://www.youtube.com/watch?v=o9BnvwgPT-o&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=30)<br> | :bookmark_tabs: [BST](https://www.acmicpc.net/workbook/view/9346),[MST](https://www.acmicpc.net/workbook/view/9907),[플로이드](https://www.acmicpc.net/workbook/view/10318),[다익스트라](https://www.acmicpc.net/workbook/view/10433)<br> |    [동근](https://github.com/DongGeun)    |
 | 2022-07-06 | :film_strip: [백트랙킹(1/2)](https://www.youtube.com/watch?v=Enz2csssTCs&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=13)<br> | :bookmark_tabs: [백트랙킹(1/2)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0C.md)<br> |     [규병](https://github.com/qqplot)     |
+| 2022-07-13 | :film_strip: [백트랙킹(2/2)](https://www.youtube.com/watch?v=Enz2csssTCs&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=13)<br> | :bookmark_tabs: [백트랙킹(2/2)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0C.md)<br> |     [규성](https://github.com/qqplot)     |
 
 
 
