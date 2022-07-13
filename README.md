@@ -25,7 +25,7 @@
 7. 임상수 `sangsoo`
 8. 이승훈 `Seunghoon.yi`
 9. 나윤진 `yunjinnie`
-10. 김은지 
+10. 김은지 `eunji`
 
 ### :calendar: 일정 및 진도
 
@@ -64,5 +64,5 @@ git pull origin master
 |                           **성우**                           |                           **규성**                           |                           **동근**                           |                           **승훈**                           |
 | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sungwoopark95)](https://solved.ac/sungwoopark95) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kscodingpractice)](https://solved.ac/kscodingpractice) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kdg5188)](https://solved.ac/kdg5188) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wanderer_of_winter)](https://solved.ac/wanderer_of_winter) |
 |                             윤진                             |                             은지                             |                                                              |                                                              |
-| [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=lumierej)](https://solved.ac/lumierej) |                                                              |                                                              |                                                              |
+| [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=lumierej)](https://solved.ac/lumierej) |                                                              |                                                              |   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kuman5262)](https://solved.ac/kuman5262)                                                           |
 
