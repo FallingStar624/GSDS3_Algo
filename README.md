@@ -23,7 +23,7 @@
 5. 박성우 `sungwoopark95`
 6. 여광은 `kwangeun.yeo`
 7. 임상수 `sangsoo`
-
+8. 이승훈 `Seunghoon.yi`
 
 ### :calendar: 일정 및 진도
 
