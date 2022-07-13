@@ -7,7 +7,7 @@ vector<char> inputs;
 vector<string> answers;
 
 bool valid_check(string target) {
-    int vowel;
+    int vowel=0;
     for (char c: target) {
         if (c=='a'||c=='e'||c=='i'||c=='o'||c=='u') vowel++;
     }
@@ -46,3 +46,4 @@ int main() {
     }
     return 0;
 }
+
