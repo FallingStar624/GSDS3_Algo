@@ -24,6 +24,8 @@
 6. 여광은 `kwangeun.yeo`
 7. 임상수 `sangsoo`
 8. 이승훈 `Seunghoon.yi`
+9. 나윤진 `yunjinnie`
+10. 김은지 
 
 ### :calendar: 일정 및 진도
 
@@ -59,6 +61,7 @@ git pull origin master
 |                             규병                             |                             상수                             |                             광은                             |                             광호                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qq_plot)](https://solved.ac/qq_plot) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=imsangsoo)](https://solved.ac/imsangsoo) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kwangeun)](https://solved.ac/kwangeun) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=pairy624)](https://solved.ac/pairy624) |
-|                           **성우**                           |                           **규성**                           |                           **동근**                           |                          **승훈**                                    |
-| [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sungwoopark95)](https://solved.ac/sungwoopark95) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kscodingpractice)](https://solved.ac/kscodingpractice) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kdg5188)](https://solved.ac/kdg5188) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wanderer_of_winter)](https://solved.ac/wanderer_of_winter)        |
+|                           **성우**                           |                           **규성**                           |                           **동근**                           |                          **승훈**                                    |  **윤진**  |
+| [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sungwoopark95)](https://solved.ac/sungwoopark95) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kscodingpractice)](https://solved.ac/kscodingpractice) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kdg5188)](https://solved.ac/kdg5188) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wanderer_of_winter)](https://solved.ac/wanderer_of_winter)        | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=lumierej)](https://solved.ac/lumierej)        |
+
 
