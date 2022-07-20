@@ -24,6 +24,8 @@
 6. 여광은 `kwangeun.yeo`
 7. 임상수 `sangsoo`
 8. 이승훈 `Seunghoon.yi`
+9. 나윤진 `yunjinnie`
+10. 김은지 `eunji`
 
 ### :calendar: 일정 및 진도
 
@@ -41,9 +43,8 @@
 | 2022-06-08 | :film_strip: [BST](https://www.youtube.com/watch?v=IKnjzmyk70U&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=23),[MST](https://www.youtube.com/watch?v=4wA3bncb64E&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=28),[플로이드](https://www.youtube.com/watch?v=dDDy2bEZRA8&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=29),[다익스트라](https://www.youtube.com/watch?v=o9BnvwgPT-o&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=30)<br> | :bookmark_tabs: [BST](https://www.acmicpc.net/workbook/view/9346),[MST](https://www.acmicpc.net/workbook/view/9907),[플로이드](https://www.acmicpc.net/workbook/view/10318),[다익스트라](https://www.acmicpc.net/workbook/view/10433)<br> |    [동근](https://github.com/DongGeun)    |
 | 2022-07-06 | :film_strip: [백트랙킹(1/2)](https://www.youtube.com/watch?v=Enz2csssTCs&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=13)<br> | :bookmark_tabs: [백트랙킹(1/2)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0C.md)<br> |     [규병](https://github.com/qqplot)     |
 | 2022-07-13 | :film_strip: [백트랙킹(2/2)](https://www.youtube.com/watch?v=Enz2csssTCs&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=13)<br> | :bookmark_tabs: [백트랙킹(2/2)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0C.md)<br> |     [규병](https://github.com/qqplot)     |
-| 2022-07-20 | :film_strip: [시뮬레이션](https://www.youtube.com/watch?v=jZwf4OPlhtk&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=14)<br> | :bookmark_tabs: [시뮬레이션](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0D.md)<br> |     [규병](https://github.com/qqplot)     |
-
-
+| 2022-07-20 | :film_strip: [시뮬레이션(1/2)](https://www.youtube.com/watch?v=jZwf4OPlhtk&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=14)<br> | :bookmark_tabs: [시뮬레이션(1/2)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0D.md)<br> |     [규병](https://github.com/qqplot)     |
+| 2022-07-27 | :film_strip: [시뮬레이션(2/2)](https://www.youtube.com/watch?v=jZwf4OPlhtk&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=14)<br> | :bookmark_tabs: [시뮬레이션(2/2)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0D.md)<br> |     [규병](https://github.com/qqplot)     |
 
 
 ### :bulb: Git Tip
@@ -51,8 +52,8 @@ Git Conflict가 나서 새로 Github 내용으로 덮어쓰고 싶을 때
 
 ```sh
 git fetch --all
-git reset --hard origin/master
-git pull origin master
+git reset --hard origin/main
+git pull origin main
 ```
 
 
