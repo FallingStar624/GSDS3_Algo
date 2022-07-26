@@ -43,8 +43,8 @@
 | 2022-06-08 | :film_strip: [BST](https://www.youtube.com/watch?v=IKnjzmyk70U&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=23),[MST](https://www.youtube.com/watch?v=4wA3bncb64E&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=28),[플로이드](https://www.youtube.com/watch?v=dDDy2bEZRA8&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=29),[다익스트라](https://www.youtube.com/watch?v=o9BnvwgPT-o&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=30)<br> | :bookmark_tabs: [BST](https://www.acmicpc.net/workbook/view/9346),[MST](https://www.acmicpc.net/workbook/view/9907),[플로이드](https://www.acmicpc.net/workbook/view/10318),[다익스트라](https://www.acmicpc.net/workbook/view/10433)<br> |    [동근](https://github.com/DongGeun)    |
 | 2022-07-06 | :film_strip: [백트랙킹(1/2)](https://www.youtube.com/watch?v=Enz2csssTCs&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=13)<br> | :bookmark_tabs: [백트랙킹(1/2)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0C.md)<br> |     [규병](https://github.com/qqplot)     |
 | 2022-07-13 | :film_strip: [백트랙킹(2/2)](https://www.youtube.com/watch?v=Enz2csssTCs&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=13)<br> | :bookmark_tabs: [백트랙킹(2/2)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0C.md)<br> |     [규병](https://github.com/qqplot)     |
-| 2022-07-20 | :film_strip: [시뮬레이션](https://www.youtube.com/watch?v=jZwf4OPlhtk&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=14)<br> | :bookmark_tabs: [시뮬레이션](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0D.md)<br> |     [규병](https://github.com/qqplot)     |
-
+| 2022-07-20 | :film_strip: [시뮬레이션(1/2)](https://www.youtube.com/watch?v=jZwf4OPlhtk&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=14)<br> | :bookmark_tabs: [시뮬레이션(1/2)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0D.md)<br> |     [규병](https://github.com/qqplot)     |
+| 2022-07-27 | :film_strip: [시뮬레이션(2/2)](https://www.youtube.com/watch?v=jZwf4OPlhtk&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=14)<br> | :bookmark_tabs: [시뮬레이션(2/2)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0D.md)<br> |     [규병](https://github.com/qqplot)     |
 
 
 ### :bulb: Git Tip
@@ -52,8 +52,8 @@ Git Conflict가 나서 새로 Github 내용으로 덮어쓰고 싶을 때
 
 ```sh
 git fetch --all
-git reset --hard origin/master
-git pull origin master
+git reset --hard origin/main
+git pull origin main
 ```
 
 
@@ -64,6 +64,5 @@ git pull origin master
 | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qq_plot)](https://solved.ac/qq_plot) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=imsangsoo)](https://solved.ac/imsangsoo) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kwangeun)](https://solved.ac/kwangeun) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=pairy624)](https://solved.ac/pairy624) |
 |                           **성우**                           |                           **규성**                           |                           **동근**                           |                           **승훈**                           |
 | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sungwoopark95)](https://solved.ac/sungwoopark95) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kscodingpractice)](https://solved.ac/kscodingpractice) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kdg5188)](https://solved.ac/kdg5188) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wanderer_of_winter)](https://solved.ac/wanderer_of_winter) |
-|                             윤진                             |                             은지                             |                                                              |                                                              |
+|                             **윤진**                             |                             **은지**                             |                                                              |                                                              |
 | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=lumierej)](https://solved.ac/lumierej) |       [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kuman5262)](https://solved.ac/kuman5262)                                                                                             |                                                              |                        |
-
