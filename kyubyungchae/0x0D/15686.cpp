@@ -27,7 +27,7 @@ int CalcDist(int rx, int ry, int dx, int dy) {
     return abs(dx - rx) + abs(dy - ry);
 }
 
-int GetDist(store s) {
+int GetDist() {
     int dist = 0;
     for(int i = 0; i < cnt_house; i++) {
         int min_dist = INT_MAX;
@@ -48,10 +48,13 @@ void Func(int idx_store) {
         return;
     }
 
-    for(int i = 0; i < ; i++) {
-
-        arr[idx_store] = stores[i];
-        Func(idx_store+1);
+    for(int i = 0; i < cnt_store; i++) {
+        if(!isused[i]) {
+            arr[idx_store] = stores[i];
+            isused[i] = 1;
+            Func(idx_store+1);
+            isused[i] = 0;
+        }
     }
 
 }
