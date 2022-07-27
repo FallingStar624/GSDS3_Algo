@@ -7,7 +7,6 @@ using namespace std;
 int n, m; // n: 크기, m: 점포 수
 vector<pair<int, int>> houses;
 vector<pair<int, int>> chickens;
-vector<int> order;
 int dist[13][100]; // i번째 치킨집으로부터 j번째 집까지의 거리
 int dist2[100]; // i번째 집의 최소 치킨거리
 int ans=987654321;
@@ -84,10 +83,7 @@ int main() {
             dist[i][j] = measure_dist(chickens.at(i), houses.at(j));
         }
     }
-    // 순서를 찾을 순열용 vector
-    for (int i=0; i<chickens.size(); i++) {
-        order.push_back(i);
-    }
+
     back_track("");
     cout << ans;
     return 0;
