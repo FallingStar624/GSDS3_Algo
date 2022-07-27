@@ -4,7 +4,7 @@
 using namespace std;
 
 int n;
-int arr[1000000];
+int arr[1000];
 
 void PrintArr();
 void MergeSort(int arr[], int len);
