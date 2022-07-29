@@ -44,12 +44,12 @@ void TimeSpent(string (*func)(int*, int), int* arr, int len) {
 }
 
 string InsertionSort(int* arr, int len) {
-    for (int i=0;i<len;i++) {
-        for (int j=i;j<len;j++) {
-            if (arr[i] > arr[j]) {
+    for (int i=1;i<len;i++) {
+        for (int j=i;j>0;j--) {
+            if (arr[j-1] > arr[j]) {
                 int temp = arr[j];
-                arr[j] = arr[i];
-                arr[i] = temp;
+                arr[j] = arr[j-1];
+                arr[j-1] = temp;
             }
         }
     }
