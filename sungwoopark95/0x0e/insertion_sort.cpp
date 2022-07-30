@@ -1,13 +1,17 @@
 #include <iostream>
 using namespace std;
 
+void Swap(int& a, int& b) {
+    int temp = a;
+    a = b;
+    b = temp;
+}
+
 void InsertionSort(int* arr, int len) {
     for (int i=1;i<len;i++) {
         for (int j=i;j>0;j--) {
             if (arr[j-1] > arr[j]) {
-                int temp = arr[j];
-                arr[j] = arr[j-1];
-                arr[j-1] = temp;
+                Swap(arr[j], arr[j-1]);
             }
         }
     }

@@ -1,6 +1,12 @@
 #include <iostream>
 using namespace std;
 
+void Swap(int& a, int& b) {
+    int temp = a;
+    a = b;
+    b = temp;
+}
+
 void SelectionSort(int* arr, int len) {
     for (int i=0;i<len;i++) {
         int smallest = i;
@@ -8,9 +14,7 @@ void SelectionSort(int* arr, int len) {
             if (arr[j] < arr[smallest]) { smallest = j; }
         }
         if (arr[smallest] < arr[i]) {
-            int temp = arr[i];
-            arr[i] = arr[smallest];
-            arr[smallest] = temp;
+            Swap(arr[i], arr[smallest]);
         }
     }
 }

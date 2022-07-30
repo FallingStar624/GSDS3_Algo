@@ -8,20 +8,31 @@ void Merge(int* arr, int start, int mid, int last) {
     int sub1[len1];
     int sub2[len2];
     
-    for (int i=0;i<len1;i++) { sub1[i] = arr[start+i]; }
-    for (int j=0;j<len2;j++) { sub2[j] = arr[mid+1+j]; }
+    for (int i=0;i<len1;i++) { 
+        sub1[i] = arr[start+i]; 
+    }
+    for (int j=0;j<len2;j++) { 
+        sub2[j] = arr[mid+1+j]; 
+    }
     
     int m = 0; int l = 0;    
     while (m < len1 && l < len2) {
-        if (sub1[m] > sub2[l]) { arr[k] = sub2[l++]; } 
-        else { arr[k] = sub1[m++]; }
+        if (sub1[m] > sub2[l]) { 
+            arr[k] = sub2[l++]; 
+        } else { 
+            arr[k] = sub1[m++]; 
+        }
         k++;
     }
     
     if (m == len1) {
-        for (int x=l;x<len2;x++) { arr[k++] = sub2[x]; }
+        for (int x=l;x<len2;x++) { 
+            arr[k++] = sub2[x]; 
+        }
     } else {
-        for (int x=m;x<len1;x++) { arr[k++] = sub1[x]; }
+        for (int x=m;x<len1;x++) { 
+            arr[k++] = sub1[x]; 
+        }
     }
     
 }
