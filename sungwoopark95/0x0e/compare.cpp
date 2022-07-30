@@ -3,6 +3,7 @@
 #include <time.h>
 #include <random>
 #include <chrono>
+#define MAX 10000000
 using namespace std;
 using namespace chrono;
 
@@ -16,9 +17,10 @@ void MergeHelp(int* arr, int start, int last);
 void Merge(int* arr, int start, int mid, int last);
 void TimeSpent(string (*func)(int*, int), int* arr, int len);
 
+int test[MAX];
+
 int main() {
-    int N = 50000;
-    int test[N];
+    int N = 100000;
     for (int i=0;i<N;i++) {
         test[i] = N-i; //worst case
     }
