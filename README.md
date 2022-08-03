@@ -46,6 +46,7 @@
 | 2022-07-20 | :film_strip: [시뮬레이션(1/2)](https://www.youtube.com/watch?v=jZwf4OPlhtk&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=14)<br> | :bookmark_tabs: [시뮬레이션(1/2)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0D.md)<br> |     [규병](https://github.com/qqplot)     |
 | 2022-07-27 | :film_strip: [시뮬레이션(2/2)](https://www.youtube.com/watch?v=jZwf4OPlhtk&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=14)<br> | :bookmark_tabs: [시뮬레이션(2/2)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0D.md)<br> |     [규병](https://github.com/qqplot)     |
 | 2022-08-03 | :film_strip: [정렬1](https://www.youtube.com/watch?v=59fZkZO0Bo4&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=15)<br> | :bookmark_tabs: [정렬1](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0E.md)<br> |     [규병](https://github.com/qqplot)     |
+| 2022-08-10 | :film_strip: [정렬2](https://www.youtube.com/watch?v=59fZkZO0Bo4&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=16)<br> | :bookmark_tabs: [정렬1](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0F.md)<br> |     [규병](https://github.com/qqplot)     |
 
 
 
