@@ -1,67 +1,47 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#define MAX 1000000
 using namespace std;
-#define MAX_SIZE 1000000
 
 class Stack {
-    private:
-    int size;
-    int stack[MAX_SIZE];
+    size_t s_size;
+    int arr[MAX];
     public:
-    Stack() {
-        size = 0;
-        for (int i=0;i<MAX_SIZE;i++) {
-            stack[i] = 0;
-        }
+    Stack() { s_size = 0; }
+    
+    void push(int x) { arr[++s_size] = x; }
+    int pop() { 
+        if (this->isEmpty()) { return -1; }
+        return arr[s_size--]; 
     }
-
-    void push(int x) {
-        stack[size] = x;
-        size++;
-    }
-
-    int pop() {
-        if (size == 0) {
-            return -1;
-        } else {
-            int temp = stack[size-1];
-            stack[size-1] = 0;
-            size--;
-            return temp;
-        }
-    }
-
-    bool isEmpty() {
-        if (size == 0) { return true; }
-        else { return false; }
-    }
-
-    int getSize() { return size; }
-
-    int getTop() { 
-        if (size == 0) { return -1; }
-        else { return stack[size-1]; }
+    int getSize() { return s_size; }
+    bool isEmpty() { return s_size == 0; }
+    int top() {
+        if (this->isEmpty()) { return -1; }
+        return arr[s_size];
     }
 };
+
+int N;
+int sum;
 
 int main() {
     cin.tie(0);
     ios_base::sync_with_stdio(0);
-
+    
     Stack s;
-    int K; int X;
-    cin >> K;
-    int cnt = 0;
-    for (int i=0;i<K;i++) {
-        cin >> X;
-        if (X != 0) {
-            s.push(X);
-            cnt += X;
-        } else {
-            int temp = s.pop();
-            cnt -= temp;
+    
+    cin >> N;
+    while (N--) {
+        int x;
+        cin >> x;
+        if (x == 0) { sum -= s.pop(); }
+        else {
+            s.push(x);
+            sum += x;
         }
     }
-
-    cout << cnt << "\n";
+    
+    cout << sum << "\n";
+    
     return 0;
 }

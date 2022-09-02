@@ -1,72 +1,49 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <string>
+#define MAX 1000000
 using namespace std;
-#define MAX_SIZE 10000
 
 class Stack {
-    private:
-    int size;
-    int stack[MAX_SIZE];
+    size_t s_size;
+    int arr[MAX];
     public:
-    Stack() {
-        size = 0;
-        for (int i=0;i<MAX_SIZE;i++) {
-            stack[i] = 0;
-        }
+    Stack() { s_size = 0; }
+    
+    void push(int x) { arr[s_size++] = x; }
+    int pop() { 
+        if (this->isEmpty()) { return -1; }
+        return arr[--s_size]; 
     }
-
-    void push(int x) {
-        stack[size] = x;
-        size++;
-    }
-
-    int pop() {
-        if (size == 0) {
-            return -1;
-        } else {
-            int temp = stack[size-1];
-            stack[size-1] = 0;
-            size--;
-            return temp;
-        }
-    }
-
-    bool isEmpty() {
-        if (size == 0) { return true; }
-        else { return false; }
-    }
-
-    int getSize() { return size; }
-
-    int getTop() { 
-        if (size == 0) { return -1; }
-        else { return stack[size-1]; }
+    int getSize() { return s_size; }
+    bool isEmpty() { return s_size == 0; }
+    int top() {
+        if (this->isEmpty()) { return -1; }
+        return arr[s_size-1];
     }
 };
+
+int N;
+string order;
 
 int main() {
     cin.tie(0);
     ios_base::sync_with_stdio(0);
-
-    // initialize
+    
     Stack s;
-    int N; 
-    string cmd; int X;
+    
     cin >> N;
-    for (int i=0;i<N;i++) {
-        cin >> cmd;
-        if (cmd == "push") {
-            cin >> X;
-            s.push(X);
-        } else if (cmd == "pop") {
-            cout << s.pop() << endl;
-        } else if (cmd == "top") {
-            cout << s.getTop() << endl;
-        } else if (cmd == "size") {
-            cout << s.getSize() << endl;
-        } else if (cmd == "empty") {
-            cout << s.isEmpty() << endl;
+    while(N--) {
+        cin >> order;
+        if (order == "push") {
+            int x;
+            cin >> x;
+            s.push(x);
         }
+        if (order == "top") { cout << s.top() << "\n"; }
+        if (order == "size") { cout << s.getSize() << "\n"; }
+        if (order == "pop") { cout << s.pop() << "\n"; }
+        if (order == "empty") { cout << s.isEmpty() << "\n"; }
     }
-
+    
     return 0;
 }
