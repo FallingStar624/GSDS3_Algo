@@ -5,17 +5,21 @@
 
 - 참고 컨텐츠: :book: [바킹독의 실전 알고리즘](https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY) / [문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
 
-- 스터디 시간: 매주 수요일 15:30 ~ 17:30
+- 스터디 시간: 매주 수요일 19:00 ~ 21:00
 - 스터디 방식
   - 함께 정한 진도를 학습하고 코드를 github에 공유.
-  - 수요일 마다 모여 문제에 대해 서로 풀이를 공유
+  - 수요일마다 모여 문제에 대해 서로 풀이를 공유
   - 어려운 문제가 없는 주는 합의해서 skip 가능
   - <u>특별한 사정없이</u> 스터디에 참여하지 못한 주에는 나머지 스터디원들에게 커피 돌리기 :coffee: 
-  - 매주 `리뷰 당번`을 정하여 그 주에 있었던 알고리즘 혹은 문제에 대해서 정리해서 위키에 남기기
+  - ~~매주 `리뷰 당번`을 정하여 그 주에 있었던 알고리즘 혹은 문제에 대해서 정리해서 위키에 남기기~~
   - :exclamation: 해당 주차의 `리뷰 당번`은 스터디룸 예약까지 담당 :exclamation:
 
 
-### 🪜 Wiki 정리 순번 `dir 이름`
+### 🛎 이주의 Master
+- 9월 21일: 
+
+
+### 🪜 스터디원 명단 및 `dir 이름`
 1. 최광호 `FallingStar`
 2. 채규병 `kyubyungchae`
 3. 김동근 `DongGeun`
@@ -49,7 +53,7 @@
 | 2022-08-10 | :film_strip: [정렬2](https://www.youtube.com/watch?v=dq5t1woLJMw&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=16)<br> | :bookmark_tabs: [정렬2](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0F.md)<br> |     [규병](https://github.com/qqplot)     |
 | 2022-08-17 | :film_strip: [다이나믹 프로그래밍](https://www.youtube.com/watch?v=5leTtB3PQu0&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=17)<br> | :bookmark_tabs: [다이나믹 프로그래밍](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x10.md)<br> |     [규병](https://github.com/qqplot)     |
 | 2022-09-07 | :film_strip: [그리디](https://www.youtube.com/watch?v=De0Qg-2O80c&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=18)<br/> | :bookmark_tabs: [그리디](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x11.md)<br/> | [광호](https://github.com/FallingStar624) |
-
+| 2022-09-07 | :film_strip: [수학](https://www.youtube.com/watch?v=2RCJApSVxRI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=19)<br/> | :bookmark_tabs: [수학](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x12.md)<br/> | [광호](https://github.com/FallingStar624) |
 
 
 ### :bulb: Git Tip
