@@ -19,6 +19,8 @@
 - 9월 21일: 
 
 
+
+
 ### 🪜 스터디원 명단 및 `dir 이름`
 1. 최광호 `FallingStar`
 2. 채규병 `kyubyungchae`
@@ -30,6 +32,9 @@
 8. 이승훈 `Seunghoon.yi`
 9. 나윤진 `yunjinnie`
 10. 김은지 `eunji`
+
+
+
 
 ### :calendar: 일정 및 진도
 
@@ -52,8 +57,8 @@
 | 2022-08-03 | :film_strip: [정렬1](https://www.youtube.com/watch?v=59fZkZO0Bo4&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=15)<br> | :bookmark_tabs: [정렬1](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0E.md)<br> |     [규병](https://github.com/qqplot)     |
 | 2022-08-10 | :film_strip: [정렬2](https://www.youtube.com/watch?v=dq5t1woLJMw&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=16)<br> | :bookmark_tabs: [정렬2](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0F.md)<br> |     [규병](https://github.com/qqplot)     |
 | 2022-08-17 | :film_strip: [다이나믹 프로그래밍](https://www.youtube.com/watch?v=5leTtB3PQu0&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=17)<br> | :bookmark_tabs: [다이나믹 프로그래밍](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x10.md)<br> |     [규병](https://github.com/qqplot)     |
-| 2022-09-07 | :film_strip: [그리디](https://www.youtube.com/watch?v=De0Qg-2O80c&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=18)<br/> | :bookmark_tabs: [그리디](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x11.md)<br/> | [광호](https://github.com/FallingStar624) |
-| 2022-09-07 | :film_strip: [수학](https://www.youtube.com/watch?v=2RCJApSVxRI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=19)<br/> | :bookmark_tabs: [수학](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x12.md)<br/> | [광호](https://github.com/FallingStar624) |
+| 2022-09-14 | :film_strip: [그리디](https://www.youtube.com/watch?v=De0Qg-2O80c&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=18)<br/> | :bookmark_tabs: [그리디](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x11.md)<br/> | [광호](https://github.com/FallingStar624) |
+| 2022-09-21 | :film_strip: [수학](https://www.youtube.com/watch?v=2RCJApSVxRI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=19)<br/> | :bookmark_tabs: [수학](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x12.md)<br/> | [광호](https://github.com/FallingStar624) |
 
 
 ### :bulb: Git Tip
