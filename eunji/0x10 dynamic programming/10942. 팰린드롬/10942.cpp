@@ -28,42 +28,35 @@ int main(void){
     ios::sync_with_stdio(0);
     cin.tie(0);
     cin >> N;
-    for (int i=1; i<=N; i++){
+    for (int i=0; i<N; i++){
         cin >> ar[i]; 
     }
 
 
-    for (int i=0; i<=N; i++){
-        for (int start=0; start<=N-i; start++){
+    for (int i=0; i<N; i++){
+        for (int start=0; start<N-i; start++){
             int end = start + i;
-            if (start == end) dp[start][end] = 1;
+            if (start == end) {
+                dp[start][end] = 1;
+            }
             else if (start + 1 == end){
-                if (ar[start] == ar[end]) dp[start][end] = 1;
+                if (ar[start] == ar[end]) {
+                    dp[start][end] = 1;
+                }
             }
             else  {
-                if (dp[start+1][end-1] == 1) dp[start][end] = 1;
+                if (dp[start+1][end-1] == 1 && ar[start] == ar[end]) {
+                    dp[start][end] = 1;
+                }
             }      
         }
     }
-    // for (int i=0; i<=N; i++){
-    //     for (int j=0; j<=N-i; j++){
-    //         if (i==j) dp[i][i] = 1;
-    //         else if (i+1 == j){
-    //             if (ar[i] == ar[j]) dp[i][j] = 1;
-    //         }
-    //         else  {
-    //             if (dp[i+1][j-1] == 1) dp[i][j] = 1;
-    //         }      
-    //     }
-    // }
-    // cout << '\n';
-
 
     cin >> M;
     for (int i=0; i<M; i++){ 
         int S, E;
         cin >> S >> E;
-        cout << dp[S][E] << '\n';
+        cout << dp[S-1][E-1] << '\n';
         }
     
     return 0;
