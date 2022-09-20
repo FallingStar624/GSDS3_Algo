@@ -22,41 +22,43 @@ using namespace std;
 int N;
 int M;
 int ar[2002];
+int dp[2002][2002];
 
 int main(void){
     ios::sync_with_stdio(0);
     cin.tie(0);
     cin >> N;
-    for (int i=1; i<=N; i++){
+    for (int i=0; i<N; i++){
         cin >> ar[i]; 
     }
-    cin >> M;
-    
-    for (int i=0; i<M; i++){ // 시간 초과
-        int S = 0, E = 0;
-        int answer = 1;
-        cin >> S >> E;
-        if ((S - E) % 2 == 0) { // 홀수 길이
-            // printf("%d\n", (E-S)/2);
-            for (int j=1; j<=((E-S)/2); j++){
-                // ar[가운데+1] == ar[가운데-1]
-                if (ar[((S+E)/2)+j] != ar[((S+E)/2)-j]){
-                    // cout << ar[((S+E)/2)+j]<< ' ' << ar[((S+E)/2)-j] << '\n';
-                    answer = 0;
+
+
+    for (int i=0; i<N; i++){
+        for (int start=0; start<N-i; start++){
+            int end = start + i;
+            if (start == end) {
+                dp[start][end] = 1;
+            }
+            else if (start + 1 == end){
+                if (ar[start] == ar[end]) {
+                    dp[start][end] = 1;
                 }
             }
-        }
-        else  { // 짝수 길이
-            // printf("%d\n", (E-S+1)/2);
-            for (int j=1; j<=((E-S+1)/2); j++){
-                if (ar[((S+E+1)/2)+j-1] != ar[((S+E+1)/2)-j]){
-                    // cout << ar[((S+E+1)/2)+j-1] << ' ' << ar[((S+E+1)/2)-j] << '\n';
-                    answer = 0; 
+            else  {
+                if (dp[start+1][end-1] == 1 && ar[start] == ar[end]) {
+                    dp[start][end] = 1;
                 }
-            }
+            }      
         }
-        cout << answer << '\n';
     }
+
+    cin >> M;
+    for (int i=0; i<M; i++){ 
+        int S, E;
+        cin >> S >> E;
+        cout << dp[S-1][E-1] << '\n';
+        }
+    
     return 0;
 }
 

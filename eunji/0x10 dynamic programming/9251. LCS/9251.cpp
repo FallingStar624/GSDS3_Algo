@@ -11,23 +11,32 @@ Output : 두 문자열의 LCS의 길이
 */
 
 #include <iostream>
+#include <string>
+#include <algorithm>
 using namespace std;
 
-int N;
-int input1[1002];
-int input2[1002];
-int dp[1002]; 
+// int N;
+// int input1[1002];
+// int input2[1002];
+int dp[1002][1002]; 
+string a, b;
 
 int main(void){
     ios::sync_with_stdio(0);
     cin.tie(0);
-    cin >> N;
-    for (int i=1; i<=N; i++){
-        cin >> input1[i];
-        // 수정 중
+    cin >> a >> b;
+
+    int a_size = a.length();
+    int b_size = b.length();
+    
+    for (int i=1; i<=a_size; i++){
+        for (int j=1; j<=b_size; j++){
+            if (a[i-1] == b[j-1]) dp[i][j] = dp[i-1][j-1] + 1;
+            else dp[i][j] = max(dp[i-1][j], dp[i][j-1]);
+        }
     }
 
-
+    cout << dp[a_size][b_size] << '\n';
 
     return 0;
 }
