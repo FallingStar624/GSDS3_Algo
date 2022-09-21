@@ -12,6 +12,8 @@
 input :
 네 개의 정수 M, N, x와 y (1 ≤ M, N ≤ 40,000, 1 ≤ x ≤ M, 1 ≤ y ≤ N) 
 
+1부터 LCM(N, M)까지를 다 보는 대신에 M으로 나눈 나머지가
+x인 목록만을 변수 i에 넣고 for문을 돌리면 LCM(N, M) / M개
 */
 
 #include <iostream>
@@ -27,12 +29,18 @@ int GCD(int M, int N){
 }
 
 int LCM(int M, int N){
-    return 0;
-
+    return M * N / GCD(M, N) ;
 }
 
 int WhatYear(int M, int N, int x, int y){
-
+    int lcm = LCM(M, N);
+    if (x == M) x =0;
+    if (y == N) y = 0;
+    for (int i=x; i <= lcm; i += M){
+        if (i == 0) continue;
+        if (i %  N == y) return i;
+    }
+    return -1;
 }
 
 int main(void){
