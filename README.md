@@ -61,7 +61,7 @@
 | 2022-08-17 | :film_strip: [다이나믹 프로그래밍](https://www.youtube.com/watch?v=5leTtB3PQu0&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=17)<br> | :bookmark_tabs: [다이나믹 프로그래밍](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x10.md)<br> |     [규병](https://github.com/qqplot)     |
 | 2022-09-14 | :film_strip: [그리디](https://www.youtube.com/watch?v=De0Qg-2O80c&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=18)<br/> | :bookmark_tabs: [그리디](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x11.md)<br/> | [광호](https://github.com/FallingStar624) |
 | 2022-09-21 | :film_strip: [수학](https://www.youtube.com/watch?v=2RCJApSVxRI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=19)<br/> | :bookmark_tabs: [수학](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x12.md)<br/> | [광호](https://github.com/FallingStar624) |
-| 2022-09-28 | :film_strip: [이분탐색](https://www.youtube.com/watch?v=3TkaOKHxHnI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=20)<br/> | :bookmark_tabs: [수학](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x13.md)<br/> | [광호](https://github.com/FallingStar624) |
+| 2022-09-28 | :film_strip: [이분탐색](https://www.youtube.com/watch?v=3TkaOKHxHnI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=20)<br/> | :bookmark_tabs: [이분탐색](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x13.md)<br/> | [광호](https://github.com/FallingStar624) |
 
 ### :bulb: Git Tip
 Git Conflict가 나서 새로 Github 내용으로 덮어쓰고 싶을 때
