@@ -9,7 +9,7 @@ nCk = n-1Ck + n-1Ck-1
 using namespace std;
 
 int N, K;
-int dp[12][12];
+int dp[1002][1002];
 
 
 int main(void){
@@ -24,10 +24,10 @@ int main(void){
 
     for (int i=2; i<=N; ++i){
         for (int j=0; j<=K; ++j){
-            dp[i][j] = dp[i-1][j] + dp[i-1][j-1];
+            dp[i][j] = dp[i-1][j] %10007+ dp[i-1][j-1]%10007;
         }
     }
 
-    cout << dp[N][K] ;
+    cout << dp[N][K] %10007;
 
 }
