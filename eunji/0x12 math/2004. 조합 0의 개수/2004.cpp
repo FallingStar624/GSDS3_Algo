@@ -8,41 +8,44 @@ nCk = n-1Ck + n-1Ck-1
 using namespace std;
 
 long long n, m;
-// long long dp[2000000002][2000000002];
-long long product;
 long long answer = 0;
 
-
-
-int count2(long long a){
-    for (int i=1; i<=n; i++){
-        if (i % 5)
+int counttwo(long long n){
+    int ans = 0;
+    for (long long i=1; i<=n; i++){
+        int count = 0;
+        while (1){
+            if (i % 2 == 0) count ++;
+            else break;
+        }
+        ans += count;
     }   
-
+    return ans;
 }
 
-int count5(long long a){
-    for (int i=1; i<=n; i++){
-        if (i % 5)
+int countfive(long long n){
+    int ans = 0;
+    for (long long i=1; i<=n; i++){
+        int count = 0;
+        while (1){
+            if (i % 5 == 0) count ++;
+            else break;
+        }
+        ans += count;
     }   
-
+    return ans;
 }
 
 int main(void){
     ios::sync_with_stdio(0);
     cin.tie(0);
     cin >> n >> m;
+    // cout << n;
+    cout << counttwo(25);
 
-    int A = count2(n-m+1); // n-r+1까지
-    int B = count5(n-m+1);
-    int C = count2(m); // n-r
-    int D = count5();
+    // int answer = min(counttwo(n)-counttwo(n-m)-counttwo(m), countfive(n)-countfive(n-m)-countfive(m));
 
-    // cout2(n)
-    int answer;
-    answer = A + B - C - D;
-
-    cout << count1+
+    // cout << answer;
     return 0;
 }
 
