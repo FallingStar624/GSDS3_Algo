@@ -23,7 +23,6 @@ using namespace std;
 int GCD(int M, int N){
     int smaller = min(M, N);
     int bigger = max(M, N);
-    int gcd = 0;
     if (bigger % smaller == 0) return smaller;
     else return GCD(bigger % smaller, smaller);
 }
