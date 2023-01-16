@@ -57,7 +57,7 @@
 | 2022-09-14 | :film_strip: [그리디](https://www.youtube.com/watch?v=De0Qg-2O80c&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=18)<br/> | :bookmark_tabs: [그리디](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x11.md)<br/> | [광호](https://github.com/FallingStar624) |
 | 2022-09-21 | :film_strip: [수학](https://www.youtube.com/watch?v=2RCJApSVxRI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=19)<br/> | :bookmark_tabs: [수학](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x12.md)<br/> | [광호](https://github.com/FallingStar624) |
 | 2022-09-28 | :film_strip: [이분탐색](https://www.youtube.com/watch?v=3TkaOKHxHnI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=20)<br/> | :bookmark_tabs: [이분탐색](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x13.md)<br/> | [광호](https://github.com/FallingStar624) |
-| 2023-01-23 | :film_strip: [Graph Theory](https://leetcode.com/study-plan/graph/?progress=xulo5tud)<br/> | :bookmark_tabs: [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/?progress=xuloed73)<br/> | [규병](https://github.com/qqplot) |
+| 2023-01-23 | :rabbit: [Graph Theory](https://leetcode.com/study-plan/graph/?progress=xulo5tud)<br/> | :rabbit: [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/?progress=xuloed73)<br/> | [규병](https://github.com/qqplot) |
 
 
 
