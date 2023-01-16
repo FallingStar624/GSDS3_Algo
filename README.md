@@ -5,19 +5,14 @@
 
 - 참고 컨텐츠: :book: [바킹독의 실전 알고리즘](https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY) / [문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
 
-- 스터디 시간: 매주 수요일 19:00 ~ 21:00
+- 스터디 시간: 매주 월요일 16:00 ~ 18:00
 - 스터디 방식
   - 함께 정한 진도를 학습하고 코드를 github에 공유.
-  - 수요일마다 모여 문제에 대해 서로 풀이를 공유
-  - 어려운 문제가 없는 주는 합의해서 skip 가능
-  - <u>특별한 사정없이</u> 스터디에 참여하지 못한 주에는 나머지 스터디원들에게 커피 돌리기 :coffee: 
+  - 매주 모여 문제에 대해 서로 풀이를 공유
+  - <u>특별한 사정없이</u> 스터디에 참여하지 못한 주에는 나머지 스터디원들에게 커피 돌리기 :coffee:   
+  - ~~어려운 문제가 없는 주는 합의해서 skip 가능~~
   - ~~매주 `리뷰 당번`을 정하여 그 주에 있었던 알고리즘 혹은 문제에 대해서 정리해서 위키에 남기기~~
   - :exclamation: 해당 주차의 `리뷰 당번`은 스터디룸 예약까지 담당 :exclamation:
-
-
-### 🛎 이주의 Master
-- 9월 21일: 여광은, 박성우, 나윤진, 이규성, 김은지
-- 9월 28일:
 
 
 
@@ -62,6 +57,10 @@
 | 2022-09-14 | :film_strip: [그리디](https://www.youtube.com/watch?v=De0Qg-2O80c&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=18)<br/> | :bookmark_tabs: [그리디](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x11.md)<br/> | [광호](https://github.com/FallingStar624) |
 | 2022-09-21 | :film_strip: [수학](https://www.youtube.com/watch?v=2RCJApSVxRI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=19)<br/> | :bookmark_tabs: [수학](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x12.md)<br/> | [광호](https://github.com/FallingStar624) |
 | 2022-09-28 | :film_strip: [이분탐색](https://www.youtube.com/watch?v=3TkaOKHxHnI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=20)<br/> | :bookmark_tabs: [이분탐색](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x13.md)<br/> | [광호](https://github.com/FallingStar624) |
+| 2023-01-23 | :film_strip: [Graph Theory](https://leetcode.com/study-plan/graph/?progress=xulo5tud)<br/> | :bookmark_tabs: [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/?progress=xuloed73)<br/> | [규병](https://github.com/qqplot) |
+
+
+
 
 ### :bulb: Git Tip
 Git Conflict가 나서 새로 Github 내용으로 덮어쓰고 싶을 때
