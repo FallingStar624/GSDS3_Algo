@@ -64,8 +64,8 @@
 
 |            |                            Graph                             |                           General                            |
 | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2023-01-23 | :game_die:[733_Flood_Fill](https://leetcode.com/problems/flood-fill/?envType=study-plan&id=graph-i)<br />:game_die:[200_Number_of_Islands](https://leetcode.com/problems/number-of-islands/?envType=study-plan&id=graph-i) <br />:game_die:[695_Max_Area_of_Island](https://leetcode.com/problems/max-area-of-island/)<br />:game_die:[1254_Number_of_Closed_Islands](https://leetcode.com/problems/number-of-closed-islands/) | :game_die:[1480_Running_Sum_of_1d_Array](https://leetcode.com/problems/running-sum-of-1d-array/?envType=study-plan&id=level-1)<br />[724_Find_Pivot_Index](https://leetcode.com/problems/find-pivot-index/?envType=study-plan&id=level-1) |
-|            |                                                              |                                                              |
+| 2023-01-23 | :game_die:[733_Flood_Fill](https://leetcode.com/problems/flood-fill/?envType=study-plan&id=graph-i)<br />:game_die:[200_Number_of_Islands](https://leetcode.com/problems/number-of-islands/?envType=study-plan&id=graph-i) <br /> | :game_die:[1480_Running_Sum_of_1d_Array](https://leetcode.com/problems/running-sum-of-1d-array/?envType=study-plan&id=level-1)<br />:game_die:[724_Find_Pivot_Index](https://leetcode.com/problems/find-pivot-index/?envType=study-plan&id=level-1)<br />:game_die:[205_Isomorphic_Strings](https://leetcode.com/problems/isomorphic-strings/)<br />:game_die:[392_Is_Subsequence](https://leetcode.com/problems/is-subsequence/) |
+| 2023-01-30 | :game_die:[695_Max_Area_of_Island](https://leetcode.com/problems/max-area-of-island/)<br />:game_die:[1254_Number_of_Closed_Islands](https://leetcode.com/problems/number-of-closed-islands/) |                                                              |
 
 
 
