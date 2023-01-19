@@ -32,8 +32,9 @@
 
 
 
-
 ### :calendar: 일정 및 진도
+
+- 바킹독
 
 |            |                             강의                             |                            문제집                            |                 리뷰 당번                 |
 | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------: |
@@ -58,6 +59,13 @@
 | 2022-09-21 | :film_strip: [수학](https://www.youtube.com/watch?v=2RCJApSVxRI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=19)<br/> | :bookmark_tabs: [수학](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x12.md)<br/> | [광호](https://github.com/FallingStar624) |
 | 2022-09-28 | :film_strip: [이분탐색](https://www.youtube.com/watch?v=3TkaOKHxHnI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=20)<br/> | :bookmark_tabs: [이분탐색](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x13.md)<br/> | [광호](https://github.com/FallingStar624) |
 | 2023-01-23 | :rabbit: [Graph Theory](https://leetcode.com/study-plan/graph/?progress=xulo5tud)<br/> | :rabbit: [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/?progress=xuloed73)<br/> | [규병](https://github.com/qqplot) |
+
+- LeetCode(:rabbit: [Graph Theory](https://leetcode.com/study-plan/graph/?progress=xulo5tud), :rabbit: [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/?progress=xuloed73))
+
+|            |                            Graph                             |                           General                            |
+| :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2023-01-23 | :game_die:[733_Flood_Fill](https://leetcode.com/problems/flood-fill/?envType=study-plan&id=graph-i)<br />:game_die:[200_Number_of_Islands](https://leetcode.com/problems/number-of-islands/?envType=study-plan&id=graph-i) <br />:game_die:[695_Max_Area_of_Island](https://leetcode.com/problems/max-area-of-island/)<br />:game_die:[1254_Number_of_Closed_Islands](https://leetcode.com/problems/number-of-closed-islands/) | :game_die:[1480_Running_Sum_of_1d_Array](https://leetcode.com/problems/running-sum-of-1d-array/?envType=study-plan&id=level-1)<br />[724_Find_Pivot_Index](https://leetcode.com/problems/find-pivot-index/?envType=study-plan&id=level-1) |
+|            |                                                              |                                                              |
 
 
 
