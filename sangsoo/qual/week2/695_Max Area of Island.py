@@ -6,7 +6,6 @@ class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
         R = len(grid)
         C = len(grid[0])
-        r, c = 0, 0
         def dfs(r, c):
             if -1 < r < R and -1 < c < C :
                 if grid[r][c] == 0:

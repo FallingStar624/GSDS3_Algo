@@ -8,7 +8,6 @@ class Solution:
         visited = set()
         R = len(grid)
         C = len(grid[0])
-        r, c = 0, 0
         def dfs(r, c):
             if -1 < r < R and -1 < c < C and (r,c) not in visited:
                 if grid[r][c] == 0:
