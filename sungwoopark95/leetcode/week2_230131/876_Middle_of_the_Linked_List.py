@@ -9,7 +9,6 @@ class ListNode:
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
         pointer = head
-        start = head
         length = 0
 
         while pointer:
