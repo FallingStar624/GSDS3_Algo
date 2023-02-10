@@ -11,7 +11,6 @@ class Solution:
     def levelOrderHelp(self, root, level):
         if root == None:
             return None
-        
         if level in self.dict:
             self.dict[level].append(root.val)
         else:
