@@ -1,0 +1,32 @@
+tion for singly-linked list.
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        if list1 == None:
+            return list2
+        if list2 == None:
+            return list1
+        
+        node_ = ListNode()
+        start_pointer = node_
+
+        while list1 and list2:
+            if list1.val < list2.val:
+                start_pointer.next = list1
+                list1 = list1.next
+            else:
+                start_pointer.next = list2
+                list2 = list2.next
+            start_pointer = start_pointer.next
+        
+        if list1 : 
+            start_pointer.next = list1
+        else:
+            start_pointer.next = list2
+
+        return node_.next
+
+
