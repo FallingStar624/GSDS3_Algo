@@ -3,47 +3,31 @@ from modules import *
 from cfg import *
 
 
+
+def folder_to_dataframe(directory):
+    data = []
+    for name in os.listdir(directory):
+        cur_hour = name.split("-")[0]
+        cur_min  = name.split("-")[1]
+        cur_files = glob.glob(f"{directory}/{name}/*.jpg")
+        for file in cur_files:
+            data.append([file, cur_hour, cur_min])
+    
+    dataframe = pd.DataFrame(data)
+    dataframe.columns = ['path', 'hour', 'min']
+    dataframe['path'] = dataframe['path'].str.replace("\\", "/", regex=False)
+    
+    return dataframe
+
+
 def prepare_data():
     train_folder = './data/train'
-    train_data = []
-    for name in os.listdir(train_folder):
-        cur_hour = name.split("-")[0]
-        cur_min  = name.split("-")[1]
-        cur_files = glob.glob(f"{train_folder}/{name}/*.jpg")
-        for file in cur_files:
-            train_data.append([file, cur_hour, cur_min])
-
-    train = pd.DataFrame(train_data)
-    train.columns = ['path', 'hour', 'min']
-    train['path'] = train['path'].str.replace("\\", "/", regex=False)
-
     test1_folder = './data/test1'
-    test1_data = []
-    for name in os.listdir(test1_folder):
-        cur_hour = name.split("-")[0]
-        cur_min  = name.split("-")[1]
-        cur_files = glob.glob(f"{test1_folder}/{name}/*.jpg")
-        for file in cur_files:
-            test1_data.append([file, cur_hour, cur_min])
-
-    test1 = pd.DataFrame(test1_data)
-    test1.columns = ['path', 'hour', 'min']
-    test1['path'] = test1['path'].str.replace("\\", "/", regex=False)
-
-
     test2_folder = './data/test2'
-    test2_data = []
-    for name in os.listdir(test2_folder):
-        cur_hour = name.split("-")[0]
-        cur_min  = name.split("-")[1]
-        cur_files = glob.glob(f"{test2_folder}/{name}/*.jpg")
-        for file in cur_files:
-            test2_data.append([file, cur_hour, cur_min])
-
-    test2 = pd.DataFrame(test2_data)
-    test2.columns = ['path', 'hour', 'min']
-    test2['path'] = test2['path'].str.replace("\\", "/", regex=False)
-
+    train = folder_to_dataframe(train_folder)
+    test1 = folder_to_dataframe(test1_folder)
+    test2 = folder_to_dataframe(test2_folder)
+    
     return train, test1, test2
 
 
@@ -89,7 +73,7 @@ def train_fn(configs, model, criterion, optimizer, scheduler, train_loader, val_
         preds  = []
         val_iterator =  tq(val_loader) if configs['TQDM'] else val_loader
         with torch.no_grad():
-            for batch in val_loader:
+            for batch in val_iterator:
                 loss, hours, mins = forward_step(batch)
                 val_loss.append(loss.item())
                 
