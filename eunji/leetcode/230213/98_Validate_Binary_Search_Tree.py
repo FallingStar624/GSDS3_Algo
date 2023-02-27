@@ -13,14 +13,13 @@ class Solution:
         curr = root
         if curr == None:
             return True
-        while True:
-            if curr.left != None and curr.left.val < curr.val:
-                self.min = curr.left.val
-                self.isValidBST(curr.left)
-            elif curr.left != None and (curr.left.val >= curr.val or curr.left.val >= self.min):
-                return False
-            if  curr.right != None and curr.right.val > curr.val:
-                self.isValidBST(curr.right)
-            elif  curr.right != None and curr.right.val <= curr.val:
-                return False
-            return
+            
+        if curr.left != None and curr.left.val < curr.val:
+            self.min = curr.left.val
+            self.isValidBST(curr.left)
+        elif curr.left != None and (curr.left.val >= curr.val or curr.left.val >= self.min):
+            return False
+        if  curr.right != None and curr.right.val > curr.val:
+            self.isValidBST(curr.right)
+        elif  curr.right != None and curr.right.val <= curr.val:
+            return False
