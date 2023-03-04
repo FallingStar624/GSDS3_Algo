@@ -7,8 +7,7 @@ class Solution:
                     queue.extend([(i,j)]) 
                 else:
                     mat[i][j] = -1
-        print(queue)
-        
+                    
         while(queue):
             curr = queue.pop()
             for d in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
