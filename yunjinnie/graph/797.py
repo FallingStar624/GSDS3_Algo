@@ -12,6 +12,7 @@ class Solution:
         def dfs(num):
             if num == node-1:
                 res.append([num -1])
+                return a
             
             
             for i in graph[num]:
@@ -21,3 +22,6 @@ class Solution:
             return res
         
         return dfs(0)
+    
+# dfs에서 visit 없으면 무한루프
+# copy deepcopy
