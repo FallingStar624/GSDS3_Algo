@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import argparse
 # from rich.traceback import install
 # install(show_locals=False, suppress=["torch", "timm", "pytorch_lightning"])
-from tqdm.auto import tqdm as tq
+from tqdm import tqdm as tq
 
 # image processing
 from PIL  import Image
@@ -32,17 +32,17 @@ from torchvision import transforms as T
 import timm
 from timm.optim import create_optimizer_v2
 
-# pytorch lightning
-import pytorch_lightning as pl
-from pytorch_lightning.loggers import WandbLogger
-from pytorch_lightning.callbacks import (
-    LearningRateMonitor,
-    ModelCheckpoint,
-    RichProgressBar,
-)
+# # pytorch lightning
+# import pytorch_lightning as pl
+# from pytorch_lightning.loggers import WandbLogger
+# from pytorch_lightning.callbacks import (
+#     LearningRateMonitor,
+#     ModelCheckpoint,
+#     RichProgressBar,
+# )
 
-# logging
-from loguru import logger
+# # logging
+# from loguru import logger
 
 # albumentations
 import albumentations as A

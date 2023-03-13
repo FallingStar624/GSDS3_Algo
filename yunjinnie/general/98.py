@@ -9,11 +9,14 @@ class Solution:
         # rbt
         #print(root.right)
         #print(root)
+
+        # min max range << or pow
+
         def dfs(root, min_, max_):
             # print(min_)
             # print(max_)
             # print("---")
-            if not root:
+            if not root: # 끝까지 감
                 return True
             
             if (min_ and root.val <= min_.val) or (max_ and root.val >= max_.val):
