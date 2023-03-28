@@ -11,7 +11,9 @@ def max_palindromes(s:str) -> List[str]:
     paltemp = []
     for i in range(len(s)):
         for j in range(i+1, len(s)+1):
+            ## make a substring
             chunk = s[i:j]
+            ## check if the substring is palindrome
             if palindrome(chunk):
                 paltemp.append(chunk)
     
@@ -20,6 +22,7 @@ def max_palindromes(s:str) -> List[str]:
     for i in range(len(paltemp)):
         maxpal = paltemp[i]
         for j in range(len(paltemp)):
+            ## if the current maximal palindrome is a substring of another palindrome, update the maximal palindrome
             if substring(paltemp[j], maxpal):
                 maxpal = paltemp[j]
         if maxpal not in ans:
