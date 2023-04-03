@@ -1,4 +1,5 @@
-from collections import deque
+from collections import deque # xx
+
 class GNode:
     def __init__(self, id, color="W", d=0, p=None):
         self.id = id # id is a string
@@ -7,36 +8,43 @@ class GNode:
         self.parent = p
     def __str__(self):
         return self.id
+# update
 
 def bfs(G, s):
     q = deque()
-    visit = [0 for i in range(len())]
-    level = [0 for i in range(len())]
+    #visit = [] # color
+    visit = {i: 0 for i in G.keys()} # for dict
+    #level = [0 for i in range(len())] -> distance
+    ans = []
 
     visit[s] = 1
     q.append(s)
-    # level[s] = 0
 
     while q:
-        x = q.popleft()
-        for i in range(len(G[x])):
-            if not visit[i]:
-                level[i] = level[s]+1
-                visit[i]=1
-                q.append(i)
+        x = q.pop() # popleft
+        if len(ans)<=x.distance:
+            ans.append([x.id])
+            
+        else:
+            ans[x.distance].append(x.id)
 
-    ans = []
-    for i in range():
-        if level[i]==1:
-            ans.append(i)
+        for node in G[x]:
+            if visit[node]:
+                continue
+
+            #level[node] = level[s]+1
+            node.distance = x.distance+1
+            visit[node]=1
+            q.append(node)
+            # bfs -> visit = 0 xxx
 
     return ans
 
 def level_partition(G, s):
-    ans = []
-
-    for i in G:
-        ans = bfs(i, s)
+    if not s:
+        return None
+    
+    ans = bfs(G, s)
 
     return ans
 
@@ -47,4 +55,8 @@ G = dict()
 G[r], G[s], G[t], G[u], G[v] = [s, v], [w, r], [w, x, u], [t, x, y], [r]
 G[w], G[x], G[y] = [s, t, x], [w, t, u, y], [x, u]
 
-level_partition(G, s)
+print(level_partition(G, s))
+
+# 객체, not string -> 주의할 것
+# if __name__ == "__main__": 있어야 함
+# visit order check
