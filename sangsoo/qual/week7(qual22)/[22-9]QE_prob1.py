@@ -1,6 +1,7 @@
 from typing import List
 def toString(List):
     return ''.join(List)
+
 def str_perm(s: str) -> List:
     result = []
     def str_perm_help(a, l, r):
@@ -17,4 +18,3 @@ def str_perm(s: str) -> List:
     list_s = list(s)
     str_perm_help(list_s, 0, len(s)-1)
     return result
-    

@@ -22,7 +22,6 @@ def substring(s:str, t:str) -> bool:
         return True
     else:
         return False
-    
 
 def max_palindromes(s):
     palist = []
@@ -33,7 +32,7 @@ def max_palindromes(s):
     for i in range(len(s)-1,-1,-1):
         for j in range(i+1,len(s)):  
             if s[i] == s[j]:
-                if j-i ==1 or dp[i+1][j-1] is True: # 한글자거나 가운데가 palindrome이면... 바깥쪽도 palindrome
+                if j-i ==1 or dp[i+1][j-1] is True:  # 두글자여서 내부가 없거나 가운데가 palindrome이면... 바깥쪽도 palindrome
                     dp[i][j] = True
                     palist.append(s[i:j+1])
     
