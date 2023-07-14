@@ -56,5 +56,6 @@ if __name__ == '__main__':
 
     # s = "kabccbadzdefgfeda"
     s = "wzabccbazw kabccba dzabccbaza"
+    s = "aba"
     result = max_palindromes(s)
     print(result)
