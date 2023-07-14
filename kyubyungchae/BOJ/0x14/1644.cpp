@@ -1,19 +1,27 @@
 #include <iostream>
-#include <math.h>
-#include <algorithm>
-
+#include <vector>
 using namespace std;
 
-int n, sum;
-int a[1000005];
+// 에라토스테네스의 체를 사용하여 소수를 구하는 함수
+vector<int> getPrimes(int n) {
+    vector<bool> isPrime(n + 1, true);
+    vector<int> primes;
 
-bool isPrime(int num) {
-
-    for(int i = 2; i <= sqrt(num); i++) {
-        if(num % i == 0)
-            return false;
+    for (int p = 2; p * p <= n; ++p) {
+        if (isPrime[p]) {
+            for (int i = p * p; i <= n; i += p) {
+                isPrime[i] = false;
+            }
+        }
     }
-    return true;
+
+    for (int p = 2; p <= n; ++p) {
+        if (isPrime[p]) {
+            primes.push_back(p);
+        }
+    }
+
+    return primes;
 }
 
 int main() {
@@ -21,36 +29,33 @@ int main() {
     ios::sync_with_stdio(0);
     cin.tie(0);
 
-    cin >> n;
+    int N;
+    cin >> N;
 
-    // Get prime numbers
-    int p = 1;
-    for(int i = 2; i <= n; i++) {
-        if(isPrime(i))
-            a[p++] = i;
-    }
+    // N까지의 소수를 구함
+    vector<int> primes = getPrimes(N);
 
-    // Partial sum
-    for(int i = 1; i <= p; i++) {
-        // cout << a[i] << " ";
-        a[i] += a[i-1];
-    }
+    int count = 0;
+    int sum = 0;
+    int left = 0;
+    int right = 0;
 
-    int st = 0, en = 0;
-    int cnt = 0;
-
-    while (en < p) {
-        int csum = a[en] - a[st];
-        if(csum <= n) {
-            if(csum == n)
-                cnt++;
-            en++;
+    // 투 포인터를 사용하여 연속된 소수의 합을 구함
+    while (true) {
+        if (sum >= N) {
+            sum -= primes[left++];
+        } else if (right == primes.size()) {
+            break;
+        } else {
+            sum += primes[right++];
         }
-        else 
-            st++;
+
+        if (sum == N) {
+            count++;
+        }
     }
 
-    cout << cnt;
+    cout << count;
 
     return 0;
 }
