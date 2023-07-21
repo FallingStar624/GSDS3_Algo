@@ -39,6 +39,7 @@ int main() {
     int st = 0, en = 0;
     int cnt = 0;
 
+
     while (en < p) {
         int csum = a[en] - a[st];
         if(csum <= n) {

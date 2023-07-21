@@ -1,5 +1,7 @@
 #include <iostream>
 #include <vector>
+#include <map>
+
 using namespace std;
 
 // 에라토스테네스의 체를 사용하여 소수를 구하는 함수
@@ -31,6 +33,8 @@ int main() {
 
     int N;
     cin >> N;
+
+    map<int, int> m;
 
     // N까지의 소수를 구함
     vector<int> primes = getPrimes(N);
