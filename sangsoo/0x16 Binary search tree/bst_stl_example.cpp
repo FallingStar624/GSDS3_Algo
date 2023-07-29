@@ -2,7 +2,7 @@
 #include <set> // multiset 포함
 #include <map>
 using namespace std;
-
+// set은 자동으로 정렬해지는  Red black tree것
 void set_example(){
     set<int> s;
     s.insert(-10); s.insert(100); s.insert(15); // {-10, 15, 100}
