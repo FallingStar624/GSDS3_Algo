@@ -19,4 +19,4 @@ for bag in bags: # 가방이 무게가 작은것 부터 정렬되어 있음
     if tmp:
         result -= heapq.heappop(tmp)
 
-print(result)
+print(result) 

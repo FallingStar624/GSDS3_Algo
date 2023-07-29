@@ -20,4 +20,4 @@ int main(){
     cout << x << ' ' << y << ' ' << z << endl;
 
     return 0;
-}
+} 

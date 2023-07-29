@@ -20,4 +20,4 @@ int main(){
     cout << "age : " << get<0>(personInfo) << endl;
     cout << "name : " << get<1>(personInfo) << endl;
     return 0;
-}
+} 

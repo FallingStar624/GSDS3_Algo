@@ -39,6 +39,6 @@ for i in range(m):
                 heapq.heappop(minheap)
             print(minheap[0][1])
 
-    else:  # solved
+    else:  # solved 
         deleted.add(int(op[1]))
 

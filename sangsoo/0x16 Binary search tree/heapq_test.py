@@ -30,7 +30,7 @@ print(max_heap)
 # 최대 힙 max heap ver2. (tuple)
 num = [5, 3, 4, 2, 1]
 heap = []
-for n in num:
+for n in num: 
     heapq.heappush(heap, (-n, n)) # (우선순위, 값)ㄴ
 while heap:
     print(heapq.heappop(heap))

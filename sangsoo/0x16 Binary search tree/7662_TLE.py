@@ -12,3 +12,4 @@ for _ in range(T):
             elif (n == -1): arr.remove(min(arr))
     if (len(arr) == 0): print("EMPTY")
     else: print(max(arr), min(arr))
+ 

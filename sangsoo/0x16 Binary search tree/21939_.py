@@ -39,7 +39,7 @@ for i in range(m):
             print(-maxheap[0][1])
         else:
             while minheap and minheap[0][1] not in existing:
-                heapq.heappop(minheap)
+                heapq.heappop(minheap) 
             print(minheap[0][1])
     else: # solved
         op[1] = int(op[1])

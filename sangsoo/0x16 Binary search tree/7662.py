@@ -28,4 +28,4 @@ for _ in range(T):
         heapq.heappop(minheap)
     while maxheap and not visited[maxheap[0][1]]:
         heapq.heappop(maxheap)
-    print(-maxheap[0][0], minheap[0][0]) if maxheap and minheap else print("EMPTY")
+    print(-maxheap[0][0], minheap[0][0]) if maxheap and minheap else print("EMPTY") 

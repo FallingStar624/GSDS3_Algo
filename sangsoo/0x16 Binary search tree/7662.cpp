@@ -23,4 +23,4 @@ int main(){
         else cout << *prev(ms.end()) << ' ' << *ms.begin() << '\n';
     }
 
-}
+} 

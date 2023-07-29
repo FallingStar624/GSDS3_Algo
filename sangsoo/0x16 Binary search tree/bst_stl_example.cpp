@@ -29,7 +29,7 @@ void set_example(){
     cout << *it1 << '\n'; // -10
     cout << *it2 << '\n'; // -40
     cout << *it3 << '\n'; // -10
-    cout << *it4 << '\n'; // 15
+    cout << *it4 << '\n'; // 15 
     cout << *it5 << '\n'; // 3
     cout << *it6 << '\n'; // 3
     cout << *it7 << '\n'; // 3

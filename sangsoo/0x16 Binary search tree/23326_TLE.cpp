@@ -36,7 +36,7 @@ int main(){
                     break;
                 }
             }
-            if(!flag) cout << -1 << '\n';
+            if(!flag) cout << -1 << '\n'; 
         }
     }
 
