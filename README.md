@@ -193,6 +193,8 @@
         </tr>
     </tbody>
 </table>
+    </div>
+</details>
 
 <details>
 <summary> LeetCode</summary>
