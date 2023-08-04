@@ -30,6 +30,7 @@ int main() {
         for(auto e : umap){
             ans *= e.second + 1;
         }
+
         cout << (ans - 1) << '\n';            
 
     }
