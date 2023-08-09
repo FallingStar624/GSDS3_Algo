@@ -191,10 +191,20 @@
             <td> <a href="https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x17.md">우선순위 큐</a></td>
             <td><a href="https://github.com/FallingStar624">광호</a></td>
         </tr>
+        <tr>
+            <td>2023-08-11</td>
+            <td> <a href="https://youtu.be/9iI6fuOLiLg">그래프</a><br/>
+            	<a href="https://youtu.be/Mj6D3HW_rCw">문자열 기초</a>
+            </td>
+            <td> <a href="https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x18.md">그래프</a><br/>
+            <a href="https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/Appendix%20A.md">문자열 기초</a></td>
+            <td><a href="https://github.com/FallingStar624">광호</a></td>
+        </tr>
     </tbody>
 </table>
     </div>
 </details>
+
 
 <details>
 <summary> LeetCode</summary>
