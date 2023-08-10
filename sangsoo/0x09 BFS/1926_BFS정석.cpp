@@ -9,6 +9,8 @@ int n, m;
 int dx[4] = {1, 0, -1, 0};
 int dy[4] = {0, 1, 0, -1};
 
+// 0이 배경, 1 이 그림
+
 int main(){
     ios::sync_with_stdio(0);
     cin.tie(0);
