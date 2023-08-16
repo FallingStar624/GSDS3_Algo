@@ -1,24 +1,22 @@
 # GSDS3_Algo
+
 ### :pencil:스터디 규칙
 
-- 목표: 안전한 논자시 통과 및 실력 향상
+-   목표: 안전한 논자시 통과 및 실력 향상
 
-- 참고 컨텐츠: :book: [바킹독의 실전 알고리즘](https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY) / [문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
+-   참고 컨텐츠: :book: [바킹독의 실전 알고리즘](https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY) / [문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
 
-- 스터디 시간: 매주 월요일 16:00 ~ 18:00
-- 스터디 방식
-  - 함께 정한 진도를 학습하고 코드를 github에 공유.
-  - 매주 모여 문제에 대해 서로 풀이를 공유
-  - <u>특별한 사정없이</u> 스터디에 참여하지 못한 주에는 나머지 스터디원들에게 커피 돌리기 :coffee:   
-  - ~~어려운 문제가 없는 주는 합의해서 skip 가능~~
-  - ~~매주 `리뷰 당번`을 정하여 그 주에 있었던 알고리즘 혹은 문제에 대해서 정리해서 위키에 남기기~~
-  - :exclamation: 해당 주차의 `리뷰 당번`은 스터디룸 예약까지 담당 :exclamation:
-
-
-
-
+-   스터디 시간: 매주 월요일 16:00 ~ 18:00
+-   스터디 방식
+    -   함께 정한 진도를 학습하고 코드를 github에 공유.
+    -   매주 모여 문제에 대해 서로 풀이를 공유
+    -   <u>특별한 사정없이</u> 스터디에 참여하지 못한 주에는 나머지 스터디원들에게 커피 돌리기 :coffee:
+    -   ~~어려운 문제가 없는 주는 합의해서 skip 가능~~
+    -   ~~매주 `리뷰 당번`을 정하여 그 주에 있었던 알고리즘 혹은 문제에 대해서 정리해서 위키에 남기기~~
+    -   :exclamation: 해당 주차의 `리뷰 당번`은 스터디룸 예약까지 담당 :exclamation:
 
 ### 🪜 스터디원 명단 및 `dir 이름`
+
 1. 최광호 `FallingStar`
 2. 채규병 `kyubyungchae`
 3. 김동근 `DongGeun`
@@ -29,8 +27,6 @@
 8. 이승훈 `Seunghoon.yi`
 9. 나윤진 `yunjinnie`
 10. 김은지 `eunji`
-
-
 
 ### :calendar: 일정 및 진도
 
@@ -200,11 +196,18 @@
             <a href="https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/Appendix%20A.md">문자열 기초</a></td>
             <td><a href="https://github.com/FallingStar624">광호</a></td>
         </tr>
+        <tr>
+            <td>2023-08-18</td>
+            <td> <a href="https://youtu.be/nehRy6hAJsA">트리</a></td>
+            <td> 
+            <a href="https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x19.md">트리</a>
+            </td>
+            <td><a href="https://github.com/FallingStar624">광호</a></td>
+        </tr>
     </tbody>
 </table>
     </div>
 </details>
-
 
 <details>
 <summary> LeetCode</summary>
@@ -263,8 +266,6 @@
     </div>
 </details>
 
-
-
 ### :bulb: Git Tip
 
 Git Conflict가 나서 새로 Github 내용으로 덮어쓰고 싶을 때
@@ -275,14 +276,12 @@ git reset --hard origin/main
 git pull origin main
 ```
 
-
-
 ### :1st_place_medal: Badge
 
-|                             규병                             |                             상수                             |                             광은                             |                             광호                             |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qq_plot)](https://solved.ac/qq_plot) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=imsangsoo)](https://solved.ac/imsangsoo) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kwangeun)](https://solved.ac/kwangeun) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=pairy624)](https://solved.ac/pairy624) |
-|                           **성우**                           |                           **규성**                           |                           **동근**                           |                           **승훈**                           |
-| [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sungwoopark95)](https://solved.ac/sungwoopark95) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kscodingpractice)](https://solved.ac/kscodingpractice) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kdg5188)](https://solved.ac/kdg5188) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wanderer_of_winter)](https://solved.ac/wanderer_of_winter) |
-|                             **윤진**                             |                             **은지**                             |                                                              |                                                              |
-| [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=lumierej)](https://solved.ac/lumierej) |       [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kuman5262)](https://solved.ac/kuman5262)                                                                                             |                                                              |                        |
+|                                                        규병                                                         |                                                           상수                                                            |                                                   광은                                                    |                                                             광호                                                              |
+| :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+|       [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qq_plot)](https://solved.ac/qq_plot)       |        [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=imsangsoo)](https://solved.ac/imsangsoo)        | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kwangeun)](https://solved.ac/kwangeun) |           [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=pairy624)](https://solved.ac/pairy624)           |
+|                                                      **성우**                                                       |                                                         **규성**                                                          |                                                 **동근**                                                  |                                                           **승훈**                                                            |
+| [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sungwoopark95)](https://solved.ac/sungwoopark95) | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kscodingpractice)](https://solved.ac/kscodingpractice) |  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kdg5188)](https://solved.ac/kdg5188)  | [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wanderer_of_winter)](https://solved.ac/wanderer_of_winter) |
+|                                                      **윤진**                                                       |                                                         **은지**                                                          |                                                                                                           |                                                                                                                               |
+|      [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=lumierej)](https://solved.ac/lumierej)      |        [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kuman5262)](https://solved.ac/kuman5262)        |                                                                                                           |                                                                                                                               |
