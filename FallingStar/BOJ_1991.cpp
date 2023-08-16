@@ -1,7 +1,5 @@
-
 #include <iostream>
 #include <unordered_map>
-#include <vector>
 using namespace std;
 
 int n;
@@ -48,4 +46,3 @@ int main() {
 
     return 0;
 }
-
