@@ -45,8 +45,8 @@
     <tbody>
         <tr>
             <td>2022-04-06</td>
-            <td> <a href="https://youtu.be/9MMKsrvRiw4">기초 코드 작성 요령 1</a><br> <a href="https://youtu.be/6lhVHP8bkPA">기초 코드 작성 요령 2</a></td>
-            <td> <a href="https://www.acmicpc.net/workbook/view/7306">기초 코드 작성 요령 2</a></td>
+            <td> <a href="https://youtu.be/9MMKsrvRiw4">기초 코드 작성 요령 1</a><br/> <a href="https://youtu.be/6lhVHP8bkPA">기초 코드 작성 요령 2</a></td>
+            <td> <a href="https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x02.md">기초 코드 작성 요령 2</a> </td>
             <td><a href="https://github.com/FallingStar624">광호</a></td>
         </tr>
         <tr>
