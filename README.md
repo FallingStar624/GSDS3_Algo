@@ -199,11 +199,11 @@
         <tr>
             <td>2023-08-18</td>
             <td> 
-                <a href="https://youtu.be/nehRy6hAJsA">트리</a>
+                <a href="https://youtu.be/nehRy6hAJsA">트리</a><br/>
                 <a href="https://youtu.be/Th-gLZUrd04">위상 정렬</a>
             </td>
             <td> 
-                <a href="https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x19.md">트리</a>
+                <a href="https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x19.md">트리</a><br/>
                 <a href="https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1A.md">위상 정렬</a>
             </td>
             <td><a href="https://github.com/FallingStar624">광호</a></td>
