@@ -99,9 +99,19 @@
         </tr>
         <tr>
             <td>2022-06-08</td>
-            <td> <a href="https://www.youtube.com/watch?v=IKnjzmyk70U&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=23">BST</a>,<a href="https://www.youtube.com/watch?v=4wA3bncb64E&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=28">MST</a>,<a href="https://www.youtube.com/watch?v=dDDy2bEZRA8&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=29">플로이드</a>,<a href="https://www.youtube.com/watch?v=o9BnvwgPT-o&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=30">다익스트라</a></td>
-            <td> <a href="https://www.acmicpc.net/workbook/view/9346">BST</a>,<a href="https://www.acmicpc.net/workbook/view/9907">MST</a>,<a href="https://www.acmicpc.net/workbook/view/10318">플로이드</a>,<a href="https://www.acmicpc.net/workbook/view/10433">다익스트라</a></td>
-            <td><a href="https://github.com/DongGeun">동근</a></td>
+            <td> 
+                <a href="https://www.youtube.com/watch?v=IKnjzmyk70U&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=23">BST</a>,
+                <a href="https://www.youtube.com/watch?v=4wA3bncb64E&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=28">MST</a><br/>
+                <a href="https://www.youtube.com/watch?v=dDDy2bEZRA8&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=29">플로이드</a>,
+                <a href="https://www.youtube.com/watch?v=o9BnvwgPT-o&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=30">다익스트라</a></td>
+            <td> 
+                <a href="https://www.acmicpc.net/workbook/view/9346">BST</a>,
+                <a href="https://www.acmicpc.net/workbook/view/9907">MST</a><br/>
+                <a href="https://www.acmicpc.net/workbook/view/10318">플로이드</a>,
+                <a href="https://www.acmicpc.net/workbook/view/10433">다익스트라</a></td>
+            <td>
+                <a href="https://github.com/DongGeun">동근</a>
+            </td>
         </tr>
         <tr>
             <td>2022-07-06</td>
