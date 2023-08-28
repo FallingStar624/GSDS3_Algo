@@ -218,6 +218,26 @@
             </td>
             <td><a href="https://github.com/FallingStar624">광호</a></td>
         </tr>
+        <tr>
+            <td>2023-08-25</td>
+            <td> 
+                <a href="https://youtu.be/4wA3bncb64E">MST</a>
+            </td>
+            <td> 
+                <a href="https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1B.md">MST</a>
+            </td>
+            <td><a href="https://github.com/FallingStar624">광호</a></td>
+        </tr>
+        <tr>
+            <td>2023-09-01</td>
+            <td> 
+                <a href="https://youtu.be/dDDy2bEZRA8">Floyd</a>
+            </td>
+            <td> 
+                <a href="https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1C.md">Floyd</a>
+            </td>
+            <td><a href="https://github.com/FallingStar624">광호</a></td>
+        </tr>
     </tbody>
 </table>
     </div>
