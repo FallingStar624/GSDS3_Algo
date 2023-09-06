@@ -238,6 +238,16 @@
             </td>
             <td><a href="https://github.com/FallingStar624">광호</a></td>
         </tr>
+        <tr>
+            <td>2023-09-01</td>
+            <td> 
+                <a href="https://youtu.be/o9BnvwgPT-o">Dijkstra</a>
+            </td>
+            <td> 
+                <a href="https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1D.md">Dijkstra</a>
+            </td>
+            <td><a href="https://github.com/FallingStar624">광호</a></td>
+        </tr>
     </tbody>
 </table>
     </div>
